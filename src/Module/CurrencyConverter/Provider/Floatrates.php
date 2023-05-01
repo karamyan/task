@@ -53,7 +53,7 @@ class Floatrates  extends CurrencyProviderAbstract implements CurrencyProviderIn
         $item = [];
         foreach ($this->getItem($data) as $key => $val) {
             $item[$val['code']] = [
-                'rate' => floatval(number_format($val['rate'], 8)),
+                'rate' => number_format($val['rate'], 10),
                 'code' => $val['code'],
             ];
         }

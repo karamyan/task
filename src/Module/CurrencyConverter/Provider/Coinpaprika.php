@@ -54,7 +54,7 @@ class Coinpaprika extends CurrencyProviderAbstract implements CurrencyProviderIn
         $item = [];
         foreach ($this->getItem($data) as $val) {
             $item[$val['pair']] = [
-                'rate' => floatval(number_format((1 / $val['quotes']['USD']['price']), 8)),
+                'rate' => number_format((1 / $val['quotes']['USD']['price']), 10),
                 'code' => $val['pair'],
             ];
         }

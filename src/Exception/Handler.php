@@ -44,7 +44,8 @@ class Handler
         } else {
             $response->setStatusCode(Response::HTTP_INTERNAL_SERVER_ERROR);
             $response->setData([
-                'message' => $exception->getMessage()
+                'message' => $exception->getMessage(),
+                'stack' => $exception->getTraceAsString()
             ]);
         }
 

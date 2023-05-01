@@ -68,7 +68,7 @@ class CurrencyConverter
      */
     private function fromWithBase(array $rates, int|float $amount, string $currencyFrom): ConvertItem
     {
-        $rateFrom = $rates[$currencyFrom]['rate'];
+        $rateFrom = floatval($rates[$currencyFrom]['rate']);
         $rateTo = 1 / $rateFrom;
         $convertedAmount = $amount / $rateFrom;
 
@@ -83,7 +83,7 @@ class CurrencyConverter
      */
     private function baseWithFrom(array $rates, int|float $amount, string $currencyTo): ConvertItem
     {
-        $rateTo = $rates[$currencyTo]['rate'];
+        $rateTo = floatval($rates[$currencyTo]['rate']);
         $rateFrom = 1 / $rateTo;
         $convertedAmount = $amount * $rateTo;
 
@@ -104,8 +104,8 @@ class CurrencyConverter
             throw new UnknownCurrencyException('The currency specified is not recognized or supported by the system. Please enter a valid currency code and try again.');
         }
 
-        $rateFrom = $rates[$currencyFrom]['rate'];
-        $rateTo = $rates[$currencyTo]['rate'];
+        $rateFrom = floatval($rates[$currencyFrom]['rate']);
+        $rateTo = floatval($rates[$currencyTo]['rate']);
         $convertedAmount = ($amount / $rateFrom) * $rateTo;
         $changeRate = $rateFrom / $rateTo;
 
@@ -142,11 +142,11 @@ class CurrencyConverter
             if ($count) {
                 $baseRate = $rates[$baseCurrency];
                 if ($rate['code'] == $baseRate['code']) {
-                    $newRate = 1 / $baseRate['rate'];
+                    $newRate = 1 / floatval($baseRate['rate']);
                     $newCurrencyCode = $_ENV['BASE_CURRENCY'];
                 } else {
-                    $oldRate = $rate['rate'];
-                    $newRate = $oldRate / $baseRate['rate'];
+                    $oldRate = floatval($rate['rate']);
+                    $newRate = $oldRate / floatval($baseRate['rate']);
                     $newCurrencyCode = $rate['code'];
                 }
                 $rate['rate'] = $newRate;
@@ -155,7 +155,7 @@ class CurrencyConverter
 
             $result[] = [
                 [
-                    "rate" => $rate['rate'],
+                    "rate" => number_format(floatval($rate['rate']), 10),
                     "code" => $rate['code']
                 ],
                 [

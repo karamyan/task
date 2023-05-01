@@ -1,1946 +1,1946 @@
 {
     "EUR": {
-        "rate": 0.90952649,
+        "rate": "0.9095264936",
         "code": "EUR"
     },
     "GBP": {
-        "rate": 0.8010998,
+        "rate": "0.8010997974",
         "code": "GBP"
     },
     "JPY": {
-        "rate": 135.7558592,
+        "rate": "135.7558592037",
         "code": "JPY"
     },
     "AUD": {
-        "rate": 1.51578787,
+        "rate": "1.5157878723",
         "code": "AUD"
     },
     "CHF": {
-        "rate": 0.89526296,
+        "rate": "0.8952629644",
         "code": "CHF"
     },
     "CAD": {
-        "rate": 1.36233708,
+        "rate": "1.3623370828",
         "code": "CAD"
     },
-    "CRC": {
-        "rate": 541.12215462,
-        "code": "CRC"
-    },
-    "BZD": {
-        "rate": 2.0210562,
-        "code": "BZD"
-    },
-    "GNF": {
-        "rate": 8,
-        "code": "GNF"
-    },
-    "SZL": {
-        "rate": 18.32075472,
-        "code": "SZL"
-    },
-    "SOS": {
-        "rate": 570.00682594,
-        "code": "SOS"
-    },
-    "AED": {
-        "rate": 3.6728572,
-        "code": "AED"
-    },
-    "IDR": {
-        "rate": 14,
-        "code": "IDR"
-    },
-    "MXN": {
-        "rate": 18.03593173,
-        "code": "MXN"
-    },
-    "UAH": {
-        "rate": 36.61222737,
-        "code": "UAH"
-    },
-    "PYG": {
-        "rate": 7,
-        "code": "PYG"
-    },
-    "GYD": {
-        "rate": 212.06257301,
-        "code": "GYD"
-    },
-    "RWF": {
-        "rate": 1,
-        "code": "RWF"
-    },
-    "ERN": {
-        "rate": 15.11694424,
-        "code": "ERN"
-    },
-    "WST": {
-        "rate": 2.73431565,
-        "code": "WST"
-    },
-    "BRL": {
-        "rate": 4.99110295,
-        "code": "BRL"
-    },
-    "INR": {
-        "rate": 81.79956277,
-        "code": "INR"
-    },
-    "NPR": {
-        "rate": 131.1457427,
-        "code": "NPR"
-    },
-    "XAF": {
-        "rate": 598.54036847,
-        "code": "XAF"
-    },
-    "AZN": {
-        "rate": 1.6976843,
-        "code": "AZN"
-    },
-    "AFN": {
-        "rate": 86.56341999,
-        "code": "AFN"
-    },
-    "NAD": {
-        "rate": 18.3127193,
-        "code": "NAD"
-    },
-    "SYP": {
-        "rate": 2,
-        "code": "SYP"
-    },
-    "MOP": {
-        "rate": 8.11052836,
-        "code": "MOP"
-    },
-    "BAM": {
-        "rate": 1.7846213,
-        "code": "BAM"
-    },
-    "DKK": {
-        "rate": 6.78719417,
-        "code": "DKK"
-    },
-    "LKR": {
-        "rate": 321.80212778,
-        "code": "LKR"
-    },
-    "TND": {
-        "rate": 3.04307259,
-        "code": "TND"
-    },
-    "VND": {
-        "rate": 23,
-        "code": "VND"
-    },
-    "IQD": {
-        "rate": 1,
-        "code": "IQD"
-    },
-    "SVC": {
-        "rate": 8.77717049,
-        "code": "SVC"
-    },
-    "XCD": {
-        "rate": 2.72059686,
-        "code": "XCD"
-    },
-    "LAK": {
-        "rate": 17,
-        "code": "LAK"
-    },
-    "GTQ": {
-        "rate": 7.82037835,
-        "code": "GTQ"
-    },
-    "PKR": {
-        "rate": 283.40605549,
-        "code": "PKR"
-    },
-    "BGN": {
-        "rate": 1.78097374,
-        "code": "BGN"
-    },
-    "RUB": {
-        "rate": 81.76241135,
-        "code": "RUB"
-    },
-    "TMT": {
-        "rate": 3.50069777,
-        "code": "TMT"
-    },
-    "GEL": {
-        "rate": 2.49442669,
-        "code": "GEL"
-    },
-    "MKD": {
-        "rate": 56.10529569,
-        "code": "MKD"
-    },
-    "AWG": {
-        "rate": 1.8147955,
-        "code": "AWG"
-    },
-    "AOA": {
-        "rate": 515.4691358,
-        "code": "AOA"
-    },
-    "MVR": {
-        "rate": 15.49851522,
-        "code": "MVR"
-    },
-    "SAR": {
-        "rate": 3.75118858,
-        "code": "SAR"
-    },
-    "PLN": {
-        "rate": 4.17398157,
-        "code": "PLN"
-    },
-    "GIP": {
-        "rate": 0.80322314,
-        "code": "GIP"
-    },
-    "COP": {
-        "rate": 4,
-        "code": "COP"
-    },
-    "BBD": {
-        "rate": 2.02448604,
-        "code": "BBD"
-    },
-    "DJF": {
-        "rate": 178.52317428,
-        "code": "DJF"
-    },
-    "HNL": {
-        "rate": 24.64757969,
-        "code": "HNL"
-    },
-    "KES": {
-        "rate": 136.16292721,
-        "code": "KES"
-    },
-    "BHD": {
-        "rate": 0.37703669,
-        "code": "BHD"
-    },
-    "EGP": {
-        "rate": 30.90234163,
-        "code": "EGP"
-    },
-    "KRW": {
-        "rate": 1,
-        "code": "KRW"
-    },
-    "MRO": {
-        "rate": 34.31519444,
-        "code": "MRO"
-    },
-    "PAB": {
-        "rate": 1.00235821,
-        "code": "PAB"
-    },
-    "FJD": {
-        "rate": 2.22849061,
-        "code": "FJD"
-    },
-    "CDF": {
-        "rate": 2,
-        "code": "CDF"
-    },
-    "MZN": {
-        "rate": 64.33436055,
-        "code": "MZN"
-    },
-    "UGX": {
-        "rate": 3,
-        "code": "UGX"
-    },
-    "HKD": {
-        "rate": 7.84953624,
-        "code": "HKD"
-    },
-    "MAD": {
-        "rate": 10.08609673,
-        "code": "MAD"
-    },
-    "ZAR": {
-        "rate": 18.34556343,
-        "code": "ZAR"
-    },
-    "MDL": {
-        "rate": 17.9885569,
-        "code": "MDL"
-    },
-    "BOB": {
-        "rate": 6.90651957,
-        "code": "BOB"
-    },
-    "LRD": {
-        "rate": 164.38188976,
-        "code": "LRD"
-    },
-    "SDG": {
-        "rate": 571.95890411,
-        "code": "SDG"
-    },
-    "TOP": {
-        "rate": 2.35666309,
-        "code": "TOP"
-    },
-    "VUV": {
-        "rate": 120.26672812,
-        "code": "VUV"
-    },
-    "KWD": {
-        "rate": 0.30687943,
-        "code": "KWD"
-    },
-    "THB": {
-        "rate": 34.13317513,
-        "code": "THB"
-    },
-    "TWD": {
-        "rate": 30.75344561,
-        "code": "TWD"
-    },
-    "IRR": {
-        "rate": 42,
-        "code": "IRR"
-    },
-    "ETB": {
-        "rate": 54.65052356,
-        "code": "ETB"
-    },
-    "TTD": {
-        "rate": 6.80903457,
-        "code": "TTD"
-    },
-    "PGK": {
-        "rate": 3.57841961,
-        "code": "PGK"
-    },
-    "BWP": {
-        "rate": 13.20879469,
-        "code": "BWP"
-    },
-    "OMR": {
-        "rate": 0.38526689,
-        "code": "OMR"
-    },
-    "ILS": {
-        "rate": 3.63698215,
-        "code": "ILS"
-    },
-    "PEN": {
-        "rate": 3.71790322,
-        "code": "PEN"
-    },
-    "UZS": {
-        "rate": 11,
-        "code": "UZS"
-    },
-    "TJS": {
-        "rate": 10.91792164,
-        "code": "TJS"
-    },
-    "GMD": {
-        "rate": 62.69219219,
-        "code": "GMD"
-    },
-    "CVE": {
-        "rate": 100.852657,
-        "code": "CVE"
-    },
-    "ZMW": {
-        "rate": 17.71446754,
-        "code": "ZMW"
-    },
-    "KHR": {
-        "rate": 4,
-        "code": "KHR"
-    },
-    "SEK": {
-        "rate": 10.31987207,
-        "code": "SEK"
-    },
-    "SGD": {
-        "rate": 1.33602878,
-        "code": "SGD"
-    },
-    "HUF": {
-        "rate": 340.43912203,
-        "code": "HUF"
-    },
-    "HRK": {
-        "rate": 7.69665257,
-        "code": "HRK"
-    },
-    "CLP": {
-        "rate": 805.23231729,
-        "code": "CLP"
-    },
-    "BSD": {
-        "rate": 1.00471641,
-        "code": "BSD"
-    },
-    "XPF": {
-        "rate": 108.5790815,
-        "code": "XPF"
-    },
-    "ALL": {
-        "rate": 101.03080311,
-        "code": "ALL"
-    },
-    "SCR": {
-        "rate": 13.37379885,
-        "code": "SCR"
-    },
-    "DOP": {
-        "rate": 54.43380383,
-        "code": "DOP"
-    },
-    "CNY": {
-        "rate": 6.91720939,
-        "code": "CNY"
-    },
-    "ISK": {
-        "rate": 135.76885721,
-        "code": "ISK"
-    },
-    "LYD": {
-        "rate": 4.77980089,
-        "code": "LYD"
-    },
-    "HTG": {
-        "rate": 154.57970418,
-        "code": "HTG"
-    },
-    "BND": {
-        "rate": 1.33935331,
-        "code": "BND"
-    },
-    "KMF": {
-        "rate": 449.00526938,
-        "code": "KMF"
-    },
-    "LSL": {
-        "rate": 18.32075472,
-        "code": "LSL"
-    },
-    "TZS": {
-        "rate": 2,
-        "code": "TZS"
-    },
-    "ANG": {
-        "rate": 1.79851041,
-        "code": "ANG"
-    },
-    "LBP": {
-        "rate": 15,
-        "code": "LBP"
-    },
-    "MYR": {
-        "rate": 4.46030243,
-        "code": "MYR"
-    },
-    "KZT": {
-        "rate": 452.29172525,
-        "code": "KZT"
-    },
-    "UYU": {
-        "rate": 38.86413027,
-        "code": "UYU"
-    },
-    "JMD": {
-        "rate": 154.0701107,
-        "code": "JMD"
-    },
-    "SSP": {
-        "rate": 846.74508213,
-        "code": "SSP"
-    },
-    "MRU": {
-        "rate": 34.39291598,
-        "code": "MRU"
-    },
-    "MNT": {
-        "rate": 3,
-        "code": "MNT"
-    },
-    "JOD": {
-        "rate": 0.70988588,
-        "code": "JOD"
-    },
-    "PHP": {
-        "rate": 55.4870141,
-        "code": "PHP"
-    },
-    "XOF": {
-        "rate": 597.48002748,
-        "code": "XOF"
-    },
-    "AMD": {
-        "rate": 386.70028594,
-        "code": "AMD"
-    },
-    "MGA": {
-        "rate": 4,
-        "code": "MGA"
-    },
-    "SRD": {
-        "rate": 36.91688771,
-        "code": "SRD"
-    },
-    "GHS": {
-        "rate": 11.78132054,
-        "code": "GHS"
-    },
-    "CUP": {
-        "rate": 1.00471641,
-        "code": "CUP"
-    },
-    "NZD": {
-        "rate": 1.6254731,
-        "code": "NZD"
-    },
-    "TRY": {
-        "rate": 19.45235258,
-        "code": "TRY"
-    },
-    "NGN": {
-        "rate": 461.06865406,
-        "code": "NGN"
-    },
-    "KGS": {
-        "rate": 87.53811093,
-        "code": "KGS"
-    },
-    "NIO": {
-        "rate": 36.65759438,
-        "code": "NIO"
-    },
-    "SBD": {
-        "rate": 8.3942501,
-        "code": "SBD"
-    },
-    "MWK": {
-        "rate": 1,
-        "code": "MWK"
-    },
-    "YER": {
-        "rate": 250.90439276,
-        "code": "YER"
-    },
     "NOK": {
-        "rate": 10.71668221,
+        "rate": "10.7166822120",
         "code": "NOK"
     },
     "QAR": {
-        "rate": 3.65218645,
+        "rate": "3.6521864476",
         "code": "QAR"
     },
     "CZK": {
-        "rate": 21.39921822,
+        "rate": "21.3992182195",
         "code": "CZK"
     },
     "BYN": {
-        "rate": 2.77158228,
+        "rate": "2.7715822793",
         "code": "BYN"
     },
     "RSD": {
-        "rate": 106.81078313,
+        "rate": "106.8107831296",
         "code": "RSD"
     },
-    "ARS": {
-        "rate": 221.78516303,
-        "code": "ARS"
+    "NIO": {
+        "rate": "36.6575943810",
+        "code": "NIO"
     },
-    "STN": {
-        "rate": 22.52049622,
-        "code": "STN"
+    "SBD": {
+        "rate": "8.3942501005",
+        "code": "SBD"
     },
-    "BIF": {
-        "rate": 2,
-        "code": "BIF"
+    "MWK": {
+        "rate": "1,029.1594774464",
+        "code": "MWK"
     },
-    "MMK": {
-        "rate": 2,
-        "code": "MMK"
-    },
-    "MUR": {
-        "rate": 45.13837838,
-        "code": "MUR"
+    "YER": {
+        "rate": "250.9043927649",
+        "code": "YER"
     },
     "VES": {
-        "rate": 24.64468882,
+        "rate": "24.6446888219",
         "code": "VES"
     },
     "BDT": {
-        "rate": 106.89282398,
+        "rate": "106.8928239847",
         "code": "BDT"
     },
     "RON": {
-        "rate": 4.49105125,
+        "rate": "4.4910512475",
         "code": "RON"
     },
     "DZD": {
-        "rate": 135.31390586,
+        "rate": "135.3139058610",
         "code": "DZD"
     },
+    "ARS": {
+        "rate": "221.7851630320",
+        "code": "ARS"
+    },
+    "STN": {
+        "rate": "22.5204962244",
+        "code": "STN"
+    },
+    "BIF": {
+        "rate": "2,087.6500000000",
+        "code": "BIF"
+    },
+    "MMK": {
+        "rate": "2,105.5471507817",
+        "code": "MMK"
+    },
+    "MUR": {
+        "rate": "45.1383783784",
+        "code": "MUR"
+    },
+    "AED": {
+        "rate": "3.6728572044",
+        "code": "AED"
+    },
+    "IDR": {
+        "rate": "14,642.0718728480",
+        "code": "IDR"
+    },
+    "MXN": {
+        "rate": "18.0359317291",
+        "code": "MXN"
+    },
+    "UAH": {
+        "rate": "36.6122273702",
+        "code": "UAH"
+    },
+    "CRC": {
+        "rate": "541.1221546176",
+        "code": "CRC"
+    },
+    "BZD": {
+        "rate": "2.0210561983",
+        "code": "BZD"
+    },
+    "GNF": {
+        "rate": "8,626.6528925618",
+        "code": "GNF"
+    },
+    "SZL": {
+        "rate": "18.3207547170",
+        "code": "SZL"
+    },
+    "SOS": {
+        "rate": "570.0068259386",
+        "code": "SOS"
+    },
+    "INR": {
+        "rate": "81.7995627685",
+        "code": "INR"
+    },
+    "NPR": {
+        "rate": "131.1457426967",
+        "code": "NPR"
+    },
+    "XAF": {
+        "rate": "598.5403684681",
+        "code": "XAF"
+    },
+    "AZN": {
+        "rate": "1.6976843049",
+        "code": "AZN"
+    },
+    "PYG": {
+        "rate": "7,234.9186769006",
+        "code": "PYG"
+    },
+    "GYD": {
+        "rate": "212.0625730103",
+        "code": "GYD"
+    },
+    "RWF": {
+        "rate": "1,114.0074706510",
+        "code": "RWF"
+    },
+    "ERN": {
+        "rate": "15.1169442433",
+        "code": "ERN"
+    },
+    "WST": {
+        "rate": "2.7343156516",
+        "code": "WST"
+    },
+    "BRL": {
+        "rate": "4.9911029496",
+        "code": "BRL"
+    },
+    "DKK": {
+        "rate": "6.7871941658",
+        "code": "DKK"
+    },
+    "LKR": {
+        "rate": "321.8021277772",
+        "code": "LKR"
+    },
+    "TND": {
+        "rate": "3.0430725870",
+        "code": "TND"
+    },
+    "VND": {
+        "rate": "23,473.6364268320",
+        "code": "VND"
+    },
+    "IQD": {
+        "rate": "1,310.3075026248",
+        "code": "IQD"
+    },
+    "AFN": {
+        "rate": "86.5634199942",
+        "code": "AFN"
+    },
+    "NAD": {
+        "rate": "18.3127192982",
+        "code": "NAD"
+    },
+    "SYP": {
+        "rate": "2,456.0588235294",
+        "code": "SYP"
+    },
+    "MOP": {
+        "rate": "8.1105283605",
+        "code": "MOP"
+    },
+    "BAM": {
+        "rate": "1.7846213028",
+        "code": "BAM"
+    },
+    "PKR": {
+        "rate": "283.4060554911",
+        "code": "PKR"
+    },
+    "BGN": {
+        "rate": "1.7809737386",
+        "code": "BGN"
+    },
+    "RUB": {
+        "rate": "81.7624113464",
+        "code": "RUB"
+    },
+    "TMT": {
+        "rate": "3.5006977673",
+        "code": "TMT"
+    },
+    "SVC": {
+        "rate": "8.7771704856",
+        "code": "SVC"
+    },
+    "XCD": {
+        "rate": "2.7205968593",
+        "code": "XCD"
+    },
+    "LAK": {
+        "rate": "17,253.3057851240",
+        "code": "LAK"
+    },
+    "GTQ": {
+        "rate": "7.8203783480",
+        "code": "GTQ"
+    },
+    "SAR": {
+        "rate": "3.7511885791",
+        "code": "SAR"
+    },
+    "PLN": {
+        "rate": "4.1739815739",
+        "code": "PLN"
+    },
+    "GIP": {
+        "rate": "0.8032231378",
+        "code": "GIP"
+    },
+    "GEL": {
+        "rate": "2.4944266909",
+        "code": "GEL"
+    },
+    "MKD": {
+        "rate": "56.1052956906",
+        "code": "MKD"
+    },
+    "AWG": {
+        "rate": "1.8147954970",
+        "code": "AWG"
+    },
+    "AOA": {
+        "rate": "515.4691358025",
+        "code": "AOA"
+    },
+    "MVR": {
+        "rate": "15.4985152190",
+        "code": "MVR"
+    },
+    "BHD": {
+        "rate": "0.3770366939",
+        "code": "BHD"
+    },
+    "EGP": {
+        "rate": "30.9023416346",
+        "code": "EGP"
+    },
+    "KRW": {
+        "rate": "1,338.7292930726",
+        "code": "KRW"
+    },
+    "MRO": {
+        "rate": "34.3151944426",
+        "code": "MRO"
+    },
+    "COP": {
+        "rate": "4,611.1243859363",
+        "code": "COP"
+    },
+    "BBD": {
+        "rate": "2.0244860357",
+        "code": "BBD"
+    },
+    "DJF": {
+        "rate": "178.5231742774",
+        "code": "DJF"
+    },
+    "HNL": {
+        "rate": "24.6475796930",
+        "code": "HNL"
+    },
+    "KES": {
+        "rate": "136.1629272111",
+        "code": "KES"
+    },
+    "HKD": {
+        "rate": "7.8495362410",
+        "code": "HKD"
+    },
+    "MAD": {
+        "rate": "10.0860967251",
+        "code": "MAD"
+    },
+    "ZAR": {
+        "rate": "18.3455634327",
+        "code": "ZAR"
+    },
+    "MDL": {
+        "rate": "17.9885569023",
+        "code": "MDL"
+    },
+    "PAB": {
+        "rate": "1.0023582068",
+        "code": "PAB"
+    },
+    "FJD": {
+        "rate": "2.2284906063",
+        "code": "FJD"
+    },
+    "CDF": {
+        "rate": "2,236.3685056240",
+        "code": "CDF"
+    },
+    "MZN": {
+        "rate": "64.3343605547",
+        "code": "MZN"
+    },
+    "UGX": {
+        "rate": "3,758.1458145815",
+        "code": "UGX"
+    },
+    "KWD": {
+        "rate": "0.3068794259",
+        "code": "KWD"
+    },
+    "THB": {
+        "rate": "34.1331751299",
+        "code": "THB"
+    },
+    "TWD": {
+        "rate": "30.7534456106",
+        "code": "TWD"
+    },
+    "IRR": {
+        "rate": "42,015.9278987080",
+        "code": "IRR"
+    },
+    "BOB": {
+        "rate": "6.9065195670",
+        "code": "BOB"
+    },
+    "LRD": {
+        "rate": "164.3818897638",
+        "code": "LRD"
+    },
+    "SDG": {
+        "rate": "571.9589041096",
+        "code": "SDG"
+    },
+    "TOP": {
+        "rate": "2.3566630919",
+        "code": "TOP"
+    },
+    "VUV": {
+        "rate": "120.2667281159",
+        "code": "VUV"
+    },
+    "OMR": {
+        "rate": "0.3852668945",
+        "code": "OMR"
+    },
+    "ILS": {
+        "rate": "3.6369821539",
+        "code": "ILS"
+    },
+    "PEN": {
+        "rate": "3.7179032151",
+        "code": "PEN"
+    },
+    "UZS": {
+        "rate": "11,394.7553123380",
+        "code": "UZS"
+    },
+    "ETB": {
+        "rate": "54.6505235602",
+        "code": "ETB"
+    },
+    "TTD": {
+        "rate": "6.8090345727",
+        "code": "TTD"
+    },
+    "PGK": {
+        "rate": "3.5784196092",
+        "code": "PGK"
+    },
+    "BWP": {
+        "rate": "13.2087946852",
+        "code": "BWP"
+    },
+    "SEK": {
+        "rate": "10.3198720683",
+        "code": "SEK"
+    },
+    "SGD": {
+        "rate": "1.3360287814",
+        "code": "SGD"
+    },
+    "HUF": {
+        "rate": "340.4391220338",
+        "code": "HUF"
+    },
+    "HRK": {
+        "rate": "7.6966525697",
+        "code": "HRK"
+    },
+    "TJS": {
+        "rate": "10.9179216360",
+        "code": "TJS"
+    },
+    "GMD": {
+        "rate": "62.6921921922",
+        "code": "GMD"
+    },
+    "CVE": {
+        "rate": "100.8526570048",
+        "code": "CVE"
+    },
+    "ZMW": {
+        "rate": "17.7144675435",
+        "code": "ZMW"
+    },
+    "KHR": {
+        "rate": "4,109.5472440945",
+        "code": "KHR"
+    },
+    "DOP": {
+        "rate": "54.4338038284",
+        "code": "DOP"
+    },
+    "CNY": {
+        "rate": "6.9172093896",
+        "code": "CNY"
+    },
+    "ISK": {
+        "rate": "135.7688572081",
+        "code": "ISK"
+    },
+    "LYD": {
+        "rate": "4.7798008873",
+        "code": "LYD"
+    },
+    "CLP": {
+        "rate": "805.2323172871",
+        "code": "CLP"
+    },
+    "BSD": {
+        "rate": "1.0047164136",
+        "code": "BSD"
+    },
+    "XPF": {
+        "rate": "108.5790815000",
+        "code": "XPF"
+    },
+    "ALL": {
+        "rate": "101.0308031069",
+        "code": "ALL"
+    },
+    "SCR": {
+        "rate": "13.3737988469",
+        "code": "SCR"
+    },
+    "ANG": {
+        "rate": "1.7985104106",
+        "code": "ANG"
+    },
+    "LBP": {
+        "rate": "15,021.6627784670",
+        "code": "LBP"
+    },
+    "MYR": {
+        "rate": "4.4603024282",
+        "code": "MYR"
+    },
+    "KZT": {
+        "rate": "452.2917252538",
+        "code": "KZT"
+    },
+    "HTG": {
+        "rate": "154.5797041786",
+        "code": "HTG"
+    },
+    "BND": {
+        "rate": "1.3393533072",
+        "code": "BND"
+    },
+    "KMF": {
+        "rate": "449.0052693838",
+        "code": "KMF"
+    },
+    "LSL": {
+        "rate": "18.3207547170",
+        "code": "LSL"
+    },
+    "TZS": {
+        "rate": "2,356.2641083521",
+        "code": "TZS"
+    },
+    "JOD": {
+        "rate": "0.7098858850",
+        "code": "JOD"
+    },
+    "PHP": {
+        "rate": "55.4870140974",
+        "code": "PHP"
+    },
+    "XOF": {
+        "rate": "597.4800274817",
+        "code": "XOF"
+    },
+    "AMD": {
+        "rate": "386.7002859377",
+        "code": "AMD"
+    },
+    "UYU": {
+        "rate": "38.8641302737",
+        "code": "UYU"
+    },
+    "JMD": {
+        "rate": "154.0701107011",
+        "code": "JMD"
+    },
+    "SSP": {
+        "rate": "846.7450821335",
+        "code": "SSP"
+    },
+    "MRU": {
+        "rate": "34.3929159802",
+        "code": "MRU"
+    },
+    "MNT": {
+        "rate": "3,508.6554621849",
+        "code": "MNT"
+    },
+    "NZD": {
+        "rate": "1.6254730993",
+        "code": "NZD"
+    },
+    "TRY": {
+        "rate": "19.4523525760",
+        "code": "TRY"
+    },
+    "NGN": {
+        "rate": "461.0686540588",
+        "code": "NGN"
+    },
+    "KGS": {
+        "rate": "87.5381109312",
+        "code": "KGS"
+    },
+    "MGA": {
+        "rate": "4,427.6776246025",
+        "code": "MGA"
+    },
+    "SRD": {
+        "rate": "36.9168877100",
+        "code": "SRD"
+    },
+    "GHS": {
+        "rate": "11.7813205418",
+        "code": "GHS"
+    },
+    "CUP": {
+        "rate": "1.0047164136",
+        "code": "CUP"
+    },
     "BTC/USD": {
-        "rate": 3.401e-5,
+        "rate": "0.0000349361",
         "code": "BTC/USD"
     },
     "ETH/USD": {
-        "rate": 0.00052512,
+        "rate": "0.0005403974",
         "code": "ETH/USD"
     },
     "SOL/USD": {
-        "rate": 0.04321521,
+        "rate": "0.0447427293",
         "code": "SOL/USD"
     },
     "LTC/USD": {
-        "rate": 0.01124227,
+        "rate": "0.0114051095",
         "code": "LTC/USD"
     },
     "BTC/EUR": {
-        "rate": 3.372e-5,
+        "rate": "0.0000349328",
         "code": "BTC/EUR"
     },
-    "MATIC/USD": {
-        "rate": 1.00918357,
-        "code": "MATIC/USD"
-    },
-    "DOGE/USD": {
-        "rate": 12.4750499,
-        "code": "DOGE/USD"
-    },
-    "ADA/USD": {
-        "rate": 2.49003984,
-        "code": "ADA/USD"
-    },
     "ETH/EUR": {
-        "rate": 0.00052017,
+        "rate": "0.0005405047",
         "code": "ETH/EUR"
     },
-    "ARB/USD": {
-        "rate": 0.72270001,
-        "code": "ARB/USD"
+    "DOGE/USD": {
+        "rate": "12.6774847870",
+        "code": "DOGE/USD"
+    },
+    "ETH/BTC": {
+        "rate": "0.0005403132",
+        "code": "ETH/BTC"
+    },
+    "MATIC/USD": {
+        "rate": "1.0176045589",
+        "code": "MATIC/USD"
+    },
+    "ADA/USD": {
+        "rate": "2.5575447570",
+        "code": "ADA/USD"
     },
     "LINK/USD": {
-        "rate": 0.14029181,
+        "rate": "0.1426940639",
         "code": "LINK/USD"
     },
     "ICP/USD": {
-        "rate": 0.15335071,
+        "rate": "0.1655355074",
         "code": "ICP/USD"
     },
-    "ETH/BTC": {
-        "rate": 0.00052507,
-        "code": "ETH/BTC"
-    },
-    "HBAR/USD": {
-        "rate": 15.49186677,
-        "code": "HBAR/USD"
-    },
-    "JASMY/USD": {
-        "rate": 148.36795252,
-        "code": "JASMY/USD"
-    },
     "AVAX/USD": {
-        "rate": 0.05763689,
+        "rate": "0.0583771162",
         "code": "AVAX/USD"
     },
+    "BTC/GBP": {
+        "rate": "0.0000349440",
+        "code": "BTC/GBP"
+    },
+    "ARB/USD": {
+        "rate": "0.7422802850",
+        "code": "ARB/USD"
+    },
     "SHIB/USD": {
-        "rate": 98,
+        "rate": "99,601.5936254980",
         "code": "SHIB/USD"
     },
     "XLM/USD": {
-        "rate": 10.53341198,
+        "rate": "10.6541657788",
         "code": "XLM/USD"
     },
-    "VGX/USD": {
-        "rate": 4.28632662,
-        "code": "VGX/USD"
-    },
-    "BTC/GBP": {
-        "rate": 3.401e-5,
-        "code": "BTC/GBP"
-    },
-    "BLUR/USD": {
-        "rate": 1.40884756,
-        "code": "BLUR/USD"
-    },
-    "DOT/USD": {
-        "rate": 0.16866251,
-        "code": "DOT/USD"
-    },
     "ATOM/USD": {
-        "rate": 0.0859328,
+        "rate": "0.0881989769",
         "code": "ATOM/USD"
     },
-    "RLC/USD": {
-        "rate": 0.51663567,
-        "code": "RLC/USD"
-    },
-    "FIL/USD": {
-        "rate": 0.18288222,
-        "code": "FIL/USD"
-    },
     "ETH/GBP": {
-        "rate": 0.0005246,
+        "rate": "0.0005399374",
         "code": "ETH/GBP"
     },
-    "GRT/USD": {
-        "rate": 7.30994152,
-        "code": "GRT/USD"
+    "FIL/USD": {
+        "rate": "0.1861157640",
+        "code": "FIL/USD"
+    },
+    "DOT/USD": {
+        "rate": "0.1707358716",
+        "code": "DOT/USD"
+    },
+    "JASMY/USD": {
+        "rate": "156.4945226917",
+        "code": "JASMY/USD"
+    },
+    "BLUR/USD": {
+        "rate": "1.4684287812",
+        "code": "BLUR/USD"
     },
     "QNT/USD": {
-        "rate": 0.00866852,
+        "rate": "0.0086520159",
         "code": "QNT/USD"
     },
+    "HBAR/USD": {
+        "rate": "16.2601626016",
+        "code": "HBAR/USD"
+    },
     "CTSI/USD": {
-        "rate": 4.29553265,
+        "rate": "4.1806020067",
         "code": "CTSI/USD"
     },
-    "APE/USD": {
-        "rate": 0.25062657,
-        "code": "APE/USD"
-    },
-    "APT/USD": {
-        "rate": 0.09514748,
-        "code": "APT/USD"
-    },
-    "BCH/USD": {
-        "rate": 0.00839983,
-        "code": "BCH/USD"
-    },
-    "CBETH/USD": {
-        "rate": 0.00051168,
-        "code": "CBETH/USD"
-    },
-    "LTC/EUR": {
-        "rate": 0.01112771,
-        "code": "LTC/EUR"
+    "VGX/USD": {
+        "rate": "4.2844901457",
+        "code": "VGX/USD"
     },
     "FET/USD": {
-        "rate": 3.00571085,
+        "rate": "3.0721966206",
         "code": "FET/USD"
     },
-    "ALGO/USD": {
-        "rate": 5.5157198,
-        "code": "ALGO/USD"
-    },
-    "SOL/EUR": {
-        "rate": 0.04275328,
-        "code": "SOL/EUR"
-    },
     "MKR/USD": {
-        "rate": 0.00143041,
+        "rate": "0.0014424811",
         "code": "MKR/USD"
     },
-    "ACH/USD": {
-        "rate": 31.80863923,
-        "code": "ACH/USD"
+    "GRT/USD": {
+        "rate": "7.3529411765",
+        "code": "GRT/USD"
+    },
+    "LTC/EUR": {
+        "rate": "0.0114028328",
+        "code": "LTC/EUR"
+    },
+    "BCH/USD": {
+        "rate": "0.0085041245",
+        "code": "BCH/USD"
+    },
+    "APE/USD": {
+        "rate": "0.2574002574",
+        "code": "APE/USD"
+    },
+    "ALGO/USD": {
+        "rate": "5.5555555556",
+        "code": "ALGO/USD"
+    },
+    "CBETH/USD": {
+        "rate": "0.0005267871",
+        "code": "CBETH/USD"
     },
     "OP/USD": {
-        "rate": 0.45977011,
+        "rate": "0.4668534080",
         "code": "OP/USD"
     },
     "CRV/USD": {
-        "rate": 1.09397221,
+        "rate": "1.1068068622",
         "code": "CRV/USD"
     },
-    "STX/USD": {
-        "rate": 1.38869601,
-        "code": "STX/USD"
-    },
     "UNI/USD": {
-        "rate": 0.18188432,
+        "rate": "0.1850481125",
         "code": "UNI/USD"
     },
-    "XCN/USD": {
-        "rate": 375.93984962,
-        "code": "XCN/USD"
-    },
-    "AAVE/USD": {
-        "rate": 0.01405877,
-        "code": "AAVE/USD"
-    },
-    "RAD/USD": {
-        "rate": 0.44642857,
-        "code": "RAD/USD"
-    },
-    "CBETH/ETH": {
-        "rate": 0.00051039,
-        "code": "CBETH/ETH"
-    },
-    "HFT/USD": {
-        "rate": 1.67954316,
-        "code": "HFT/USD"
-    },
-    "EOS/USD": {
-        "rate": 0.97599063,
-        "code": "EOS/USD"
-    },
-    "ERN/USD": {
-        "rate": 0.44247788,
-        "code": "ERN/USD"
-    },
-    "MPL/USD": {
-        "rate": 0.14265335,
-        "code": "MPL/USD"
-    },
     "ETC/USD": {
-        "rate": 0.05099439,
+        "rate": "0.0513610683",
         "code": "ETC/USD"
     },
-    "XTZ/USD": {
-        "rate": 0.98814229,
-        "code": "XTZ/USD"
+    "ACH/USD": {
+        "rate": "32.2632682691",
+        "code": "ACH/USD"
     },
-    "YFI/USD": {
-        "rate": 0.00012175,
-        "code": "YFI/USD"
+    "SOL/EUR": {
+        "rate": "0.0447695867",
+        "code": "SOL/EUR"
     },
-    "MANA/USD": {
-        "rate": 1.83621006,
-        "code": "MANA/USD"
+    "APT/USD": {
+        "rate": "0.0980392157",
+        "code": "APT/USD"
     },
-    "DAI/USD": {
-        "rate": 1.00010001,
-        "code": "DAI/USD"
-    },
-    "XYO/USD": {
-        "rate": 213.2196162,
-        "code": "XYO/USD"
-    },
-    "SUSHI/USD": {
-        "rate": 0.97200622,
-        "code": "SUSHI/USD"
-    },
-    "LTC/BTC": {
-        "rate": 0.01125334,
-        "code": "LTC/BTC"
+    "AAVE/USD": {
+        "rate": "0.0142653352",
+        "code": "AAVE/USD"
     },
     "ZEC/USD": {
-        "rate": 0.02643405,
+        "rate": "0.0270929287",
         "code": "ZEC/USD"
     },
-    "LQTY/USD": {
-        "rate": 0.56053812,
-        "code": "LQTY/USD"
+    "STX/USD": {
+        "rate": "1.4539110206",
+        "code": "STX/USD"
     },
-    "AMP/USD": {
-        "rate": 289.85507246,
-        "code": "AMP/USD"
+    "RLC/USD": {
+        "rate": "0.5378946802",
+        "code": "RLC/USD"
     },
-    "SOL/BTC": {
-        "rate": 0.0431854,
-        "code": "SOL/BTC"
+    "CBETH/ETH": {
+        "rate": "0.0005256482",
+        "code": "CBETH/ETH"
+    },
+    "MANA/USD": {
+        "rate": "1.8559762435",
+        "code": "MANA/USD"
+    },
+    "XTZ/USD": {
+        "rate": "0.9990009990",
+        "code": "XTZ/USD"
     },
     "IMX/USD": {
-        "rate": 1.0086746,
+        "rate": "1.0239606799",
         "code": "IMX/USD"
     },
-    "QSP/USD": {
-        "rate": 62.38303182,
-        "code": "QSP/USD"
+    "HFT/USD": {
+        "rate": "1.7161489617",
+        "code": "HFT/USD"
     },
-    "ADA/EUR": {
-        "rate": 2.46482173,
-        "code": "ADA/EUR"
+    "YFI/USD": {
+        "rate": "0.0001226806",
+        "code": "YFI/USD"
     },
-    "ADA/GBP": {
-        "rate": 2.49063577,
-        "code": "ADA/GBP"
+    "SUSHI/USD": {
+        "rate": "0.9787608887",
+        "code": "SUSHI/USD"
     },
-    "SOL/GBP": {
-        "rate": 0.0431269,
-        "code": "SOL/GBP"
-    },
-    "TONE/USD": {
-        "rate": 85.61643836,
-        "code": "TONE/USD"
-    },
-    "BOND/USD": {
-        "rate": 0.22573363,
-        "code": "BOND/USD"
-    },
-    "NEAR/USD": {
-        "rate": 0.51626226,
-        "code": "NEAR/USD"
-    },
-    "SNX/USD": {
-        "rate": 0.41135335,
-        "code": "SNX/USD"
-    },
-    "LRC/USD": {
-        "rate": 2.93513355,
-        "code": "LRC/USD"
-    },
-    "AXS/USD": {
-        "rate": 0.12547051,
-        "code": "AXS/USD"
-    },
-    "MATIC/EUR": {
-        "rate": 0.99974858,
-        "code": "MATIC/EUR"
-    },
-    "REQ/USD": {
-        "rate": 10.71811361,
-        "code": "REQ/USD"
-    },
-    "DOGE/EUR": {
-        "rate": 12.34442312,
-        "code": "DOGE/EUR"
-    },
-    "FLOW/USD": {
-        "rate": 1.11856823,
-        "code": "FLOW/USD"
-    },
-    "ANKR/USD": {
-        "rate": 32.21649485,
-        "code": "ANKR/USD"
-    },
-    "NKN/USD": {
-        "rate": 9.14076782,
-        "code": "NKN/USD"
-    },
-    "TIME/USD": {
-        "rate": 0.03099814,
-        "code": "TIME/USD"
-    },
-    "DNT/USD": {
-        "rate": 34.60207612,
-        "code": "DNT/USD"
+    "EOS/USD": {
+        "rate": "0.9796238245",
+        "code": "EOS/USD"
     },
     "AVAX/EUR": {
-        "rate": 0.05713121,
+        "rate": "0.0583901157",
         "code": "AVAX/EUR"
     },
-    "COMP/USD": {
-        "rate": 0.02392344,
-        "code": "COMP/USD"
+    "LTC/BTC": {
+        "rate": "0.0114150429",
+        "code": "LTC/BTC"
     },
-    "SKL/USD": {
-        "rate": 26.24671916,
-        "code": "SKL/USD"
+    "LRC/USD": {
+        "rate": "2.9753049688",
+        "code": "LRC/USD"
     },
-    "LINK/EUR": {
-        "rate": 0.13911362,
-        "code": "LINK/EUR"
+    "LQTY/USD": {
+        "rate": "0.5476451260",
+        "code": "LQTY/USD"
     },
-    "MASK/USD": {
-        "rate": 0.21834061,
-        "code": "MASK/USD"
+    "DAI/USD": {
+        "rate": "1.0001000100",
+        "code": "DAI/USD"
+    },
+    "XCN/USD": {
+        "rate": "398.4063745020",
+        "code": "XCN/USD"
+    },
+    "ADA/EUR": {
+        "rate": "2.5589817230",
+        "code": "ADA/EUR"
+    },
+    "SOL/BTC": {
+        "rate": "0.0447769168",
+        "code": "SOL/BTC"
+    },
+    "DOGE/EUR": {
+        "rate": "12.6701671660",
+        "code": "DOGE/EUR"
+    },
+    "AMP/USD": {
+        "rate": "297.6190476190",
+        "code": "AMP/USD"
+    },
+    "NEAR/USD": {
+        "rate": "0.5230125523",
+        "code": "NEAR/USD"
     },
     "FORTH/USD": {
-        "rate": 0.27247956,
+        "rate": "0.2898550725",
         "code": "FORTH/USD"
     },
-    "ICP/EUR": {
-        "rate": 0.15231763,
-        "code": "ICP/EUR"
+    "SOL/GBP": {
+        "rate": "0.0447289473",
+        "code": "SOL/GBP"
+    },
+    "MPL/USD": {
+        "rate": "0.1483679525",
+        "code": "MPL/USD"
+    },
+    "ANKR/USD": {
+        "rate": "32.7976385700",
+        "code": "ANKR/USD"
+    },
+    "RARI/USD": {
+        "rate": "0.6451612903",
+        "code": "RARI/USD"
+    },
+    "BOND/USD": {
+        "rate": "0.2320185615",
+        "code": "BOND/USD"
+    },
+    "MATIC/EUR": {
+        "rate": "1.0159906215",
+        "code": "MATIC/EUR"
+    },
+    "AXS/USD": {
+        "rate": "0.1288659794",
+        "code": "AXS/USD"
+    },
+    "MASK/USD": {
+        "rate": "0.2217294900",
+        "code": "MASK/USD"
+    },
+    "RBN/USD": {
+        "rate": "6.0313630881",
+        "code": "RBN/USD"
+    },
+    "ADA/GBP": {
+        "rate": "2.5571670912",
+        "code": "ADA/GBP"
     },
     "COTI/USD": {
-        "rate": 12.67427123,
+        "rate": "12.7551020408",
         "code": "COTI/USD"
     },
-    "LINK/GBP": {
-        "rate": 0.1402575,
-        "code": "LINK/GBP"
-    },
-    "QUICK/USD": {
-        "rate": 0.01283532,
-        "code": "QUICK/USD"
-    },
-    "ZRX/USD": {
-        "rate": 3.87625445,
-        "code": "ZRX/USD"
-    },
-    "POND/USD": {
-        "rate": 96.15384615,
-        "code": "POND/USD"
-    },
-    "GRT/EUR": {
-        "rate": 7.24737099,
-        "code": "GRT/EUR"
-    },
-    "VGX/EUR": {
-        "rate": 4.23902832,
-        "code": "VGX/EUR"
-    },
-    "DOGE/BTC": {
-        "rate": 12.46523567,
-        "code": "DOGE/BTC"
-    },
-    "GRT/BTC": {
-        "rate": 7.30259514,
-        "code": "GRT/BTC"
-    },
-    "GODS/USD": {
-        "rate": 4.50531627,
-        "code": "GODS/USD"
-    },
-    "BNT/GBP": {
-        "rate": 2.07152905,
-        "code": "BNT/GBP"
-    },
-    "UMA/USD": {
-        "rate": 0.52083333,
-        "code": "UMA/USD"
-    },
-    "ENS/USD": {
-        "rate": 0.08244023,
-        "code": "ENS/USD"
-    },
-    "SPELL/USD": {
-        "rate": 1,
-        "code": "SPELL/USD"
-    },
-    "GRT/GBP": {
-        "rate": 7.31609938,
-        "code": "GRT/GBP"
-    },
-    "BAT/USD": {
-        "rate": 4.02446877,
-        "code": "BAT/USD"
-    },
-    "OCEAN/USD": {
-        "rate": 2.71149675,
-        "code": "OCEAN/USD"
-    },
-    "BICO/USD": {
-        "rate": 2.70709258,
-        "code": "BICO/USD"
-    },
-    "REN/USD": {
-        "rate": 10.78748652,
-        "code": "REN/USD"
+    "FLOW/USD": {
+        "rate": "1.1389521640",
+        "code": "FLOW/USD"
     },
     "RPL/USD": {
-        "rate": 0.02131287,
+        "rate": "0.0209380235",
         "code": "RPL/USD"
     },
-    "1INCH/USD": {
-        "rate": 2.09643606,
-        "code": "1INCH/USD"
+    "REN/USD": {
+        "rate": "11.0253583241",
+        "code": "REN/USD"
     },
-    "POLY/USD": {
-        "rate": 5.16795866,
-        "code": "POLY/USD"
-    },
-    "MATIC/GBP": {
-        "rate": 1.00844535,
-        "code": "MATIC/GBP"
-    },
-    "CHZ/USD": {
-        "rate": 7.88022065,
-        "code": "CHZ/USD"
-    },
-    "BICO/EUR": {
-        "rate": 2.69710085,
-        "code": "BICO/EUR"
-    },
-    "CRV/BTC": {
-        "rate": 1.09421522,
-        "code": "CRV/BTC"
-    },
-    "CELR/USD": {
-        "rate": 43.0292599,
-        "code": "CELR/USD"
-    },
-    "HIGH/USD": {
-        "rate": 0.50125313,
-        "code": "HIGH/USD"
-    },
-    "WBTC/USD": {
-        "rate": 3.408e-5,
-        "code": "WBTC/USD"
-    },
-    "ALGO/EUR": {
-        "rate": 5.47638027,
-        "code": "ALGO/EUR"
-    },
-    "UNFI/USD": {
-        "rate": 0.19417476,
-        "code": "UNFI/USD"
-    },
-    "DOGE/GBP": {
-        "rate": 12.48445843,
-        "code": "DOGE/GBP"
-    },
-    "ICP/BTC": {
-        "rate": 0.15342693,
-        "code": "ICP/BTC"
+    "ZRX/USD": {
+        "rate": "3.9333068491",
+        "code": "ZRX/USD"
     },
     "EOS/BTC": {
-        "rate": 0.97731457,
+        "rate": "0.9790717446",
         "code": "EOS/BTC"
     },
-    "RAD/EUR": {
-        "rate": 0.44269655,
-        "code": "RAD/EUR"
+    "SNX/USD": {
+        "rate": "0.4152823920",
+        "code": "SNX/USD"
     },
-    "CLV/USD": {
-        "rate": 16.94915254,
-        "code": "CLV/USD"
+    "DOGE/BTC": {
+        "rate": "12.6640801752",
+        "code": "DOGE/BTC"
+    },
+    "1INCH/USD": {
+        "rate": "2.1413276231",
+        "code": "1INCH/USD"
+    },
+    "ORN/USD": {
+        "rate": "1.0976948408",
+        "code": "ORN/USD"
+    },
+    "NKN/USD": {
+        "rate": "9.1659028414",
+        "code": "NKN/USD"
+    },
+    "XYO/USD": {
+        "rate": "220.2643171806",
+        "code": "XYO/USD"
+    },
+    "CELR/USD": {
+        "rate": "42.2832980973",
+        "code": "CELR/USD"
+    },
+    "SKL/USD": {
+        "rate": "26.5251989390",
+        "code": "SKL/USD"
+    },
+    "DOGE/GBP": {
+        "rate": "12.6602060107",
+        "code": "DOGE/GBP"
+    },
+    "ZEC/BTC": {
+        "rate": "0.0270742535",
+        "code": "ZEC/BTC"
+    },
+    "COMP/USD": {
+        "rate": "0.0241254524",
+        "code": "COMP/USD"
+    },
+    "LINK/EUR": {
+        "rate": "0.1428128732",
+        "code": "LINK/EUR"
+    },
+    "CHZ/USD": {
+        "rate": "7.9744816587",
+        "code": "CHZ/USD"
+    },
+    "LINK/GBP": {
+        "rate": "0.1429085866",
+        "code": "LINK/GBP"
+    },
+    "VGX/EUR": {
+        "rate": "4.3155502966",
+        "code": "VGX/EUR"
+    },
+    "ICP/EUR": {
+        "rate": "0.1654032732",
+        "code": "ICP/EUR"
     },
     "USDC/EUR": {
-        "rate": 0.99071106,
+        "rate": "1.0001297301",
         "code": "USDC/EUR"
     },
-    "FARM/USD": {
-        "rate": 0.03079766,
-        "code": "FARM/USD"
+    "SHIB/GBP": {
+        "rate": "99,732.7090234257",
+        "code": "SHIB/GBP"
+    },
+    "UMA/USD": {
+        "rate": "0.5005005005",
+        "code": "UMA/USD"
+    },
+    "BICO/EUR": {
+        "rate": "2.7905460200",
+        "code": "BICO/EUR"
+    },
+    "GRT/EUR": {
+        "rate": "7.3482875809",
+        "code": "GRT/EUR"
+    },
+    "SPELL/USD": {
+        "rate": "1,481.0426540284",
+        "code": "SPELL/USD"
+    },
+    "LTC/GBP": {
+        "rate": "0.0114204289",
+        "code": "LTC/GBP"
+    },
+    "CRV/BTC": {
+        "rate": "1.1061032052",
+        "code": "CRV/BTC"
+    },
+    "USDC/GBP": {
+        "rate": "1.0007002371",
+        "code": "USDC/GBP"
+    },
+    "MATIC/GBP": {
+        "rate": "1.0173955671",
+        "code": "MATIC/GBP"
+    },
+    "ALGO/EUR": {
+        "rate": "5.5470609910",
+        "code": "ALGO/EUR"
+    },
+    "ERN/USD": {
+        "rate": "0.4566210046",
+        "code": "ERN/USD"
+    },
+    "TIME/USD": {
+        "rate": "0.0298596596",
+        "code": "TIME/USD"
+    },
+    "DASH/USD": {
+        "rate": "0.0203252033",
+        "code": "DASH/USD"
+    },
+    "BNT/USD": {
+        "rate": "2.1390374332",
+        "code": "BNT/USD"
+    },
+    "API3/USD": {
+        "rate": "0.6854009596",
+        "code": "API3/USD"
+    },
+    "GRT/BTC": {
+        "rate": "7.3740213678",
+        "code": "GRT/BTC"
+    },
+    "OCEAN/USD": {
+        "rate": "2.7631942526",
+        "code": "OCEAN/USD"
+    },
+    "ADA/BTC": {
+        "rate": "2.5587746181",
+        "code": "ADA/BTC"
+    },
+    "PERP/USD": {
+        "rate": "1.5311590874",
+        "code": "PERP/USD"
+    },
+    "ENS/USD": {
+        "rate": "0.0849617672",
+        "code": "ENS/USD"
+    },
+    "DOT/GBP": {
+        "rate": "0.1706963674",
+        "code": "DOT/GBP"
+    },
+    "BAT/USD": {
+        "rate": "4.1401010185",
+        "code": "BAT/USD"
+    },
+    "GRT/GBP": {
+        "rate": "7.3424540375",
+        "code": "GRT/GBP"
+    },
+    "COVAL/USD": {
+        "rate": "95.7854406130",
+        "code": "COVAL/USD"
     },
     "ENJ/USD": {
-        "rate": 2.57731959,
+        "rate": "2.6109660574",
         "code": "ENJ/USD"
     },
-    "FIL/BTC": {
-        "rate": 0.18297717,
-        "code": "FIL/BTC"
+    "DNT/USD": {
+        "rate": "34.8432055749",
+        "code": "DNT/USD"
     },
-    "ELA/USD": {
-        "rate": 0.75018755,
-        "code": "ELA/USD"
+    "APE/EUR": {
+        "rate": "0.2577104823",
+        "code": "APE/EUR"
     },
-    "SHPING/USD": {
-        "rate": 236.01604909,
-        "code": "SHPING/USD"
+    "SOL/ETH": {
+        "rate": "0.0447419393",
+        "code": "SOL/ETH"
+    },
+    "BAND/USD": {
+        "rate": "0.5945303210",
+        "code": "BAND/USD"
+    },
+    "MANA/EUR": {
+        "rate": "1.8565673521",
+        "code": "MANA/EUR"
+    },
+    "RAD/EUR": {
+        "rate": "0.3656422840",
+        "code": "RAD/EUR"
+    },
+    "HIGH/USD": {
+        "rate": "0.5112474438",
+        "code": "HIGH/USD"
+    },
+    "BCH/BTC": {
+        "rate": "0.0085334134",
+        "code": "BCH/BTC"
+    },
+    "ICP/BTC": {
+        "rate": "0.1656533710",
+        "code": "ICP/BTC"
+    },
+    "GODS/USD": {
+        "rate": "4.7263446451",
+        "code": "GODS/USD"
+    },
+    "CLV/USD": {
+        "rate": "17.2117039587",
+        "code": "CLV/USD"
+    },
+    "BICO/USD": {
+        "rate": "2.8003360403",
+        "code": "BICO/USD"
+    },
+    "UNFI/USD": {
+        "rate": "0.1890359168",
+        "code": "UNFI/USD"
+    },
+    "MATIC/BTC": {
+        "rate": "1.0178468632",
+        "code": "MATIC/BTC"
+    },
+    "SUSHI/BTC": {
+        "rate": "0.9796205517",
+        "code": "SUSHI/BTC"
     },
     "GMT/USD": {
-        "rate": 3.03859009,
+        "rate": "3.0807147258",
         "code": "GMT/USD"
     },
     "SUSHI/EUR": {
-        "rate": 0.96331226,
+        "rate": "0.9797716775",
         "code": "SUSHI/EUR"
     },
-    "BNT/USD": {
-        "rate": 2.09863589,
-        "code": "BNT/USD"
-    },
-    "APE/EUR": {
-        "rate": 0.24838972,
-        "code": "APE/EUR"
-    },
-    "BAND/USD": {
-        "rate": 0.58962264,
-        "code": "BAND/USD"
-    },
-    "DASH/USD": {
-        "rate": 0.02002002,
-        "code": "DASH/USD"
-    },
-    "ADA/BTC": {
-        "rate": 2.48757993,
-        "code": "ADA/BTC"
-    },
-    "XLM/EUR": {
-        "rate": 10.45431706,
-        "code": "XLM/EUR"
-    },
-    "PERP/USD": {
-        "rate": 1.43061516,
-        "code": "PERP/USD"
-    },
-    "BCH/BTC": {
-        "rate": 0.00838593,
-        "code": "BCH/BTC"
-    },
-    "OGN/USD": {
-        "rate": 8.88099467,
-        "code": "OGN/USD"
-    },
-    "CVC/USD": {
-        "rate": 9.78473581,
-        "code": "CVC/USD"
-    },
-    "ATOM/BTC": {
-        "rate": 0.0854598,
-        "code": "ATOM/BTC"
-    },
-    "COVAL/USD": {
-        "rate": 90.49773756,
-        "code": "COVAL/USD"
-    },
-    "CRV/GBP": {
-        "rate": 1.09239011,
-        "code": "CRV/GBP"
-    },
-    "USDC/GBP": {
-        "rate": 0.99869396,
-        "code": "USDC/GBP"
-    },
-    "TRAC/USD": {
-        "rate": 2.69759914,
-        "code": "TRAC/USD"
-    },
-    "LTC/GBP": {
-        "rate": 0.01123407,
-        "code": "LTC/GBP"
-    },
-    "SUSHI/BTC": {
-        "rate": 0.97145571,
-        "code": "SUSHI/BTC"
-    },
-    "MATIC/BTC": {
-        "rate": 1.01069478,
-        "code": "MATIC/BTC"
-    },
-    "API3/USD": {
-        "rate": 0.67159167,
-        "code": "API3/USD"
+    "UMA/EUR": {
+        "rate": "0.4998450563",
+        "code": "UMA/EUR"
     },
     "AST/USD": {
-        "rate": 8.86524823,
+        "rate": "8.4033613445",
         "code": "AST/USD"
     },
-    "BAL/BTC": {
-        "rate": 0.16419036,
-        "code": "BAL/BTC"
-    },
-    "NMR/USD": {
-        "rate": 0.06053269,
-        "code": "NMR/USD"
-    },
     "DOT/BTC": {
-        "rate": 0.16880007,
+        "rate": "0.1709186371",
         "code": "DOT/BTC"
     },
-    "MANA/EUR": {
-        "rate": 1.81550304,
-        "code": "MANA/EUR"
+    "FARM/USD": {
+        "rate": "0.0317158262",
+        "code": "FARM/USD"
     },
-    "ANKR/GBP": {
-        "rate": 32.23591416,
-        "code": "ANKR/GBP"
+    "ELA/USD": {
+        "rate": "0.7633587786",
+        "code": "ELA/USD"
     },
-    "CRV/EUR": {
-        "rate": 1.08535508,
-        "code": "CRV/EUR"
+    "POLY/USD": {
+        "rate": "5.0632911392",
+        "code": "POLY/USD"
     },
-    "C98/USD": {
-        "rate": 4.21407501,
-        "code": "C98/USD"
-    },
-    "WBTC/BTC": {
-        "rate": 3.403e-5,
-        "code": "WBTC/BTC"
-    },
-    "INV/USD": {
-        "rate": 0.02469136,
-        "code": "INV/USD"
-    },
-    "SUSHI/GBP": {
-        "rate": 0.97125061,
-        "code": "SUSHI/GBP"
-    },
-    "AXL/USD": {
-        "rate": 1.9047619,
-        "code": "AXL/USD"
-    },
-    "FIL/GBP": {
-        "rate": 0.18281839,
-        "code": "FIL/GBP"
-    },
-    "XTZ/GBP": {
-        "rate": 0.98423268,
-        "code": "XTZ/GBP"
-    },
-    "DOT/GBP": {
-        "rate": 0.16884501,
-        "code": "DOT/GBP"
-    },
-    "SOL/ETH": {
-        "rate": 0.04315689,
-        "code": "SOL/ETH"
-    },
-    "CELO/USD": {
-        "rate": 1.66944908,
-        "code": "CELO/USD"
-    },
-    "MASK/GBP": {
-        "rate": 0.21859813,
-        "code": "MASK/GBP"
-    },
-    "DOT/EUR": {
-        "rate": 0.16766306,
-        "code": "DOT/EUR"
-    },
-    "AAVE/BTC": {
-        "rate": 0.01406202,
-        "code": "AAVE/BTC"
-    },
-    "GFI/USD": {
-        "rate": 1.77147919,
-        "code": "GFI/USD"
-    },
-    "RAD/BTC": {
-        "rate": 0.44542007,
-        "code": "RAD/BTC"
-    },
-    "BAL/USD": {
-        "rate": 0.16583748,
-        "code": "BAL/USD"
-    },
-    "ALCX/USD": {
-        "rate": 0.05527916,
-        "code": "ALCX/USD"
-    },
-    "KSM/USD": {
-        "rate": 0.03220612,
-        "code": "KSM/USD"
-    },
-    "FIDA/USD": {
-        "rate": 2.52589038,
-        "code": "FIDA/USD"
-    },
-    "AVT/USD": {
-        "rate": 0.92592593,
-        "code": "AVT/USD"
-    },
-    "BAT/EUR": {
-        "rate": 3.9781939,
-        "code": "BAT/EUR"
-    },
-    "BLZ/USD": {
-        "rate": 13.03780965,
-        "code": "BLZ/USD"
-    },
-    "GLM/USD": {
-        "rate": 4.24268137,
-        "code": "GLM/USD"
+    "XLM/EUR": {
+        "rate": "10.6598001256",
+        "code": "XLM/EUR"
     },
     "KNC/USD": {
-        "rate": 1.43020595,
+        "rate": "1.4645577036",
         "code": "KNC/USD"
     },
-    "ALGO/GBP": {
-        "rate": 5.51115733,
-        "code": "ALGO/GBP"
+    "BCH/EUR": {
+        "rate": "0.0085211503",
+        "code": "BCH/EUR"
     },
-    "OXT/USD": {
-        "rate": 12.62626263,
-        "code": "OXT/USD"
+    "QSP/USD": {
+        "rate": "62.6959247649",
+        "code": "QSP/USD"
     },
-    "XTZ/BTC": {
-        "rate": 0.98781113,
-        "code": "XTZ/BTC"
+    "SUSHI/GBP": {
+        "rate": "0.9786340797",
+        "code": "SUSHI/GBP"
     },
-    "ADA/ETH": {
-        "rate": 2.48510078,
-        "code": "ADA/ETH"
+    "MASK/GBP": {
+        "rate": "0.2211680507",
+        "code": "MASK/GBP"
+    },
+    "CRV/GBP": {
+        "rate": "1.1053812084",
+        "code": "CRV/GBP"
+    },
+    "ATOM/BTC": {
+        "rate": "0.0882425178",
+        "code": "ATOM/BTC"
+    },
+    "XTZ/GBP": {
+        "rate": "0.9973270902",
+        "code": "XTZ/GBP"
+    },
+    "NMR/USD": {
+        "rate": "0.0624219725",
+        "code": "NMR/USD"
+    },
+    "POND/USD": {
+        "rate": "98.9119683482",
+        "code": "POND/USD"
+    },
+    "BAL/BTC": {
+        "rate": "0.1678811781",
+        "code": "BAL/BTC"
+    },
+    "CTSI/BTC": {
+        "rate": "4.2111881064",
+        "code": "CTSI/BTC"
     },
     "SKL/EUR": {
-        "rate": 25.97323708,
+        "rate": "26.5999415942",
         "code": "SKL/EUR"
     },
-    "ICP/GBP": {
-        "rate": 0.1535251,
-        "code": "ICP/GBP"
+    "CRV/EUR": {
+        "rate": "1.1061746140",
+        "code": "CRV/EUR"
     },
-    "XLM/BTC": {
-        "rate": 10.53563262,
-        "code": "XLM/BTC"
+    "FIL/BTC": {
+        "rate": "0.1862265506",
+        "code": "FIL/BTC"
+    },
+    "DOT/EUR": {
+        "rate": "0.1706787997",
+        "code": "DOT/EUR"
+    },
+    "KSM/USD": {
+        "rate": "0.0326797386",
+        "code": "KSM/USD"
+    },
+    "QUICK/USD": {
+        "rate": "0.0132555673",
+        "code": "QUICK/USD"
+    },
+    "FIDA/USD": {
+        "rate": "2.5568908208",
+        "code": "FIDA/USD"
+    },
+    "SHIB/EUR": {
+        "rate": "99,859.2757980832",
+        "code": "SHIB/EUR"
+    },
+    "INV/USD": {
+        "rate": "0.0249812641",
+        "code": "INV/USD"
+    },
+    "CELO/USD": {
+        "rate": "1.7035775128",
+        "code": "CELO/USD"
+    },
+    "TRAC/USD": {
+        "rate": "2.6997840173",
+        "code": "TRAC/USD"
+    },
+    "ALGO/GBP": {
+        "rate": "5.5437820908",
+        "code": "ALGO/GBP"
+    },
+    "EOS/EUR": {
+        "rate": "0.9787175928",
+        "code": "EOS/EUR"
     },
     "CHZ/EUR": {
-        "rate": 7.7807273,
+        "rate": "7.9799824783",
         "code": "CHZ/EUR"
     },
-    "SKL/GBP": {
-        "rate": 26.2462047,
-        "code": "SKL/GBP"
+    "SHPING/USD": {
+        "rate": "240.6738868833",
+        "code": "SHPING/USD"
+    },
+    "ALGO/BTC": {
+        "rate": "5.5568936858",
+        "code": "ALGO/BTC"
+    },
+    "CHZ/GBP": {
+        "rate": "7.9806093834",
+        "code": "CHZ/GBP"
+    },
+    "GFI/USD": {
+        "rate": "1.8248175182",
+        "code": "GFI/USD"
+    },
+    "FORTH/GBP": {
+        "rate": "0.2873593523",
+        "code": "FORTH/GBP"
+    },
+    "REQ/USD": {
+        "rate": "10.7758620690",
+        "code": "REQ/USD"
+    },
+    "OXT/USD": {
+        "rate": "12.6903553299",
+        "code": "OXT/USD"
+    },
+    "YFI/BTC": {
+        "rate": "0.0001228572",
+        "code": "YFI/BTC"
+    },
+    "ADA/ETH": {
+        "rate": "2.5473358822",
+        "code": "ADA/ETH"
+    },
+    "LINK/ETH": {
+        "rate": "0.1426588844",
+        "code": "LINK/ETH"
+    },
+    "BAL/USD": {
+        "rate": "0.1675041876",
+        "code": "BAL/USD"
+    },
+    "OGN/USD": {
+        "rate": "9.0727635638",
+        "code": "OGN/USD"
+    },
+    "BAT/EUR": {
+        "rate": "4.1395977545",
+        "code": "BAT/EUR"
+    },
+    "AXL/USD": {
+        "rate": "1.9565642731",
+        "code": "AXL/USD"
+    },
+    "FIL/EUR": {
+        "rate": "0.1860364013",
+        "code": "FIL/EUR"
     },
     "LPT/USD": {
-        "rate": 0.17953321,
+        "rate": "0.1821493625",
         "code": "LPT/USD"
     },
+    "STORJ/USD": {
+        "rate": "2.8801843318",
+        "code": "STORJ/USD"
+    },
+    "1INCH/EUR": {
+        "rate": "2.1455613267",
+        "code": "1INCH/EUR"
+    },
+    "CVC/USD": {
+        "rate": "9.8814229249",
+        "code": "CVC/USD"
+    },
+    "BAND/GBP": {
+        "rate": "0.5939472114",
+        "code": "BAND/GBP"
+    },
+    "MASK/EUR": {
+        "rate": "0.2213425797",
+        "code": "MASK/EUR"
+    },
+    "GLM/USD": {
+        "rate": "4.3252595156",
+        "code": "GLM/USD"
+    },
+    "SNX/EUR": {
+        "rate": "0.4148280905",
+        "code": "SNX/EUR"
+    },
+    "XTZ/EUR": {
+        "rate": "0.9888239158",
+        "code": "XTZ/EUR"
+    },
+    "ZRX/EUR": {
+        "rate": "3.9364690719",
+        "code": "ZRX/EUR"
+    },
+    "FORTH/EUR": {
+        "rate": "0.2897191091",
+        "code": "FORTH/EUR"
+    },
+    "ORCA/USD": {
+        "rate": "1.3259082471",
+        "code": "ORCA/USD"
+    },
+    "LINK/BTC": {
+        "rate": "0.1428104649",
+        "code": "LINK/BTC"
+    },
+    "AUCTION/USD": {
+        "rate": "0.1851851852",
+        "code": "AUCTION/USD"
+    },
+    "ANKR/EUR": {
+        "rate": "32.7708214164",
+        "code": "ANKR/EUR"
+    },
+    "DIA/USD": {
+        "rate": "3.0341646945",
+        "code": "DIA/USD"
+    },
+    "AAVE/BTC": {
+        "rate": "0.0142722994",
+        "code": "AAVE/BTC"
+    },
+    "WBTC/USD": {
+        "rate": "0.0000349940",
+        "code": "WBTC/USD"
+    },
+    "XTZ/BTC": {
+        "rate": "0.9972285673",
+        "code": "XTZ/BTC"
+    },
+    "AAVE/EUR": {
+        "rate": "0.0142723251",
+        "code": "AAVE/EUR"
+    },
+    "XLM/BTC": {
+        "rate": "10.6563601474",
+        "code": "XLM/BTC"
+    },
+    "C98/USD": {
+        "rate": "4.2571306939",
+        "code": "C98/USD"
+    },
+    "SKL/GBP": {
+        "rate": "26.5401660890",
+        "code": "SKL/GBP"
+    },
     "GAL/USD": {
-        "rate": 0.55928412,
+        "rate": "0.5757052389",
         "code": "GAL/USD"
     },
     "NCT/USD": {
-        "rate": 109.40919037,
+        "rate": "110.1321585903",
         "code": "NCT/USD"
     },
-    "CHZ/GBP": {
-        "rate": 7.86607322,
-        "code": "CHZ/GBP"
-    },
-    "ALGO/BTC": {
-        "rate": 5.51541222,
-        "code": "ALGO/BTC"
-    },
-    "YFI/BTC": {
-        "rate": 0.00012145,
-        "code": "YFI/BTC"
-    },
-    "ATOM/EUR": {
-        "rate": 0.08518237,
-        "code": "ATOM/EUR"
-    },
-    "REQ/EUR": {
-        "rate": 10.61008268,
-        "code": "REQ/EUR"
-    },
-    "STORJ/USD": {
-        "rate": 2.84090909,
-        "code": "STORJ/USD"
-    },
-    "RLC/BTC": {
-        "rate": 0.51482743,
-        "code": "RLC/BTC"
-    },
-    "SNX/EUR": {
-        "rate": 0.40793191,
-        "code": "SNX/EUR"
-    },
-    "CTX/USD": {
-        "rate": 0.58823529,
-        "code": "CTX/USD"
-    },
-    "MASK/EUR": {
-        "rate": 0.21654795,
-        "code": "MASK/EUR"
-    },
-    "RAD/GBP": {
-        "rate": 0.42987027,
-        "code": "RAD/GBP"
-    },
-    "BCH/EUR": {
-        "rate": 0.0083226,
-        "code": "BCH/EUR"
-    },
-    "FIL/EUR": {
-        "rate": 0.18118427,
-        "code": "FIL/EUR"
-    },
-    "FORTH/EUR": {
-        "rate": 0.26987207,
-        "code": "FORTH/EUR"
-    },
-    "PLA/USD": {
-        "rate": 4.67726848,
-        "code": "PLA/USD"
-    },
-    "ZRX/EUR": {
-        "rate": 3.84871093,
-        "code": "ZRX/EUR"
-    },
-    "SHIB/EUR": {
-        "rate": 97,
-        "code": "SHIB/EUR"
-    },
-    "LINK/BTC": {
-        "rate": 0.14027822,
-        "code": "LINK/BTC"
-    },
-    "1INCH/EUR": {
-        "rate": 2.08993954,
-        "code": "1INCH/EUR"
-    },
-    "AUCTION/USD": {
-        "rate": 0.18484288,
-        "code": "AUCTION/USD"
-    },
-    "XYO/EUR": {
-        "rate": 212.35208008,
-        "code": "XYO/EUR"
-    },
-    "MLN/USD": {
-        "rate": 0.04821601,
-        "code": "MLN/USD"
-    },
-    "ORCA/USD": {
-        "rate": 1.29836406,
-        "code": "ORCA/USD"
-    },
-    "LINK/ETH": {
-        "rate": 0.14026709,
-        "code": "LINK/ETH"
-    },
-    "BAND/GBP": {
-        "rate": 0.58821006,
-        "code": "BAND/GBP"
-    },
-    "CTSI/BTC": {
-        "rate": 4.30760676,
-        "code": "CTSI/BTC"
-    },
-    "FOX/USD": {
-        "rate": 32.36245955,
-        "code": "FOX/USD"
-    },
-    "1INCH/GBP": {
-        "rate": 2.10386244,
-        "code": "1INCH/GBP"
+    "RAD/BTC": {
+        "rate": "0.3537738996",
+        "code": "RAD/BTC"
     },
     "UNI/BTC": {
-        "rate": 0.18197911,
+        "rate": "0.1852297895",
         "code": "UNI/BTC"
     },
-    "BCH/GBP": {
-        "rate": 0.00840034,
-        "code": "BCH/GBP"
-    },
-    "ATOM/GBP": {
-        "rate": 0.08578857,
-        "code": "ATOM/GBP"
-    },
-    "DIA/USD": {
-        "rate": 2.88234277,
-        "code": "DIA/USD"
-    },
-    "EOS/EUR": {
-        "rate": 0.9675646,
-        "code": "EOS/EUR"
-    },
-    "DREP/USD": {
-        "rate": 2.36294896,
-        "code": "DREP/USD"
-    },
-    "TRB/USD": {
-        "rate": 0.07309942,
-        "code": "TRB/USD"
-    },
-    "NKN/BTC": {
-        "rate": 9.07469157,
-        "code": "NKN/BTC"
-    },
-    "ALICE/USD": {
-        "rate": 0.64143682,
-        "code": "ALICE/USD"
-    },
-    "LOKA/USD": {
-        "rate": 2.10128178,
-        "code": "LOKA/USD"
-    },
-    "MANA/ETH": {
-        "rate": 1.83021384,
-        "code": "MANA/ETH"
-    },
-    "AAVE/EUR": {
-        "rate": 0.01397627,
-        "code": "AAVE/EUR"
-    },
-    "SNX/GBP": {
-        "rate": 0.40992784,
-        "code": "SNX/GBP"
-    },
-    "DAR/USD": {
-        "rate": 5.91715976,
-        "code": "DAR/USD"
-    },
-    "REQ/BTC": {
-        "rate": 10.70128722,
-        "code": "REQ/BTC"
-    },
-    "UNI/GBP": {
-        "rate": 0.17871011,
-        "code": "UNI/GBP"
-    },
-    "UMA/EUR": {
-        "rate": 0.51618266,
-        "code": "UMA/EUR"
-    },
-    "ANKR/EUR": {
-        "rate": 31.95853495,
-        "code": "ANKR/EUR"
-    },
-    "GTC/USD": {
-        "rate": 0.5952381,
-        "code": "GTC/USD"
-    },
-    "BTRST/USD": {
-        "rate": 1.16144019,
-        "code": "BTRST/USD"
+    "ALCX/USD": {
+        "rate": "0.0561482313",
+        "code": "ALCX/USD"
     },
     "ETC/GBP": {
-        "rate": 0.05104365,
+        "rate": "0.0514728737",
         "code": "ETC/GBP"
     },
-    "WCFG/USD": {
-        "rate": 3.98406375,
-        "code": "WCFG/USD"
-    },
-    "XTZ/EUR": {
-        "rate": 0.97681957,
-        "code": "XTZ/EUR"
-    },
-    "KNC/BTC": {
-        "rate": 1.43043688,
-        "code": "KNC/BTC"
-    },
-    "OOKI/USD": {
-        "rate": 261.91723415,
-        "code": "OOKI/USD"
-    },
-    "ETC/EUR": {
-        "rate": 0.05054409,
-        "code": "ETC/EUR"
-    },
-    "FORTH/BTC": {
-        "rate": 0.27094023,
-        "code": "FORTH/BTC"
-    },
-    "IOTX/EUR": {
-        "rate": 34.05358101,
-        "code": "IOTX/EUR"
-    },
-    "MKR/BTC": {
-        "rate": 0.00142984,
-        "code": "MKR/BTC"
-    },
-    "DIA/EUR": {
-        "rate": 2.84669772,
-        "code": "DIA/EUR"
-    },
-    "NMR/EUR": {
-        "rate": 0.06003166,
-        "code": "NMR/EUR"
-    },
-    "CLV/EUR": {
-        "rate": 16.77256444,
-        "code": "CLV/EUR"
-    },
-    "NMR/GBP": {
-        "rate": 0.05948093,
-        "code": "NMR/GBP"
-    },
-    "POWR/USD": {
-        "rate": 5.64971751,
-        "code": "POWR/USD"
-    },
-    "ZEN/USD": {
-        "rate": 0.10245902,
-        "code": "ZEN/USD"
-    },
-    "ANKR/BTC": {
-        "rate": 32.40961274,
-        "code": "ANKR/BTC"
-    },
-    "UNI/EUR": {
-        "rate": 0.17901873,
-        "code": "UNI/EUR"
-    },
-    "HOPR/USD": {
-        "rate": 16.86340641,
-        "code": "HOPR/USD"
-    },
-    "ORN/BTC": {
-        "rate": 1.04386789,
-        "code": "ORN/BTC"
-    },
-    "BADGER/USD": {
-        "rate": 0.35971223,
-        "code": "BADGER/USD"
-    },
-    "REQ/GBP": {
-        "rate": 10.6460509,
-        "code": "REQ/GBP"
-    },
-    "AAVE/GBP": {
-        "rate": 0.01405301,
-        "code": "AAVE/GBP"
-    },
-    "SNX/BTC": {
-        "rate": 0.41148843,
-        "code": "SNX/BTC"
-    },
-    "SHIB/GBP": {
-        "rate": 98,
-        "code": "SHIB/GBP"
-    },
-    "FX/USD": {
-        "rate": 5.50660793,
-        "code": "FX/USD"
-    },
-    "BOBA/USD": {
-        "rate": 4.63606861,
-        "code": "BOBA/USD"
-    },
-    "ZRX/BTC": {
-        "rate": 3.88471386,
-        "code": "ZRX/BTC"
-    },
-    "UMA/GBP": {
-        "rate": 0.51307097,
-        "code": "UMA/GBP"
-    },
-    "TRAC/EUR": {
-        "rate": 2.65958568,
-        "code": "TRAC/EUR"
-    },
-    "COMP/BTC": {
-        "rate": 0.02396485,
-        "code": "COMP/BTC"
-    },
-    "BAND/BTC": {
-        "rate": 0.58551434,
-        "code": "BAND/BTC"
-    },
-    "RARE/USD": {
-        "rate": 8.74125874,
-        "code": "RARE/USD"
-    },
-    "GNO/USD": {
-        "rate": 0.00920726,
-        "code": "GNO/USD"
-    },
-    "ETC/BTC": {
-        "rate": 0.05094325,
-        "code": "ETC/BTC"
-    },
-    "NKN/EUR": {
-        "rate": 8.88896145,
-        "code": "NKN/EUR"
-    },
-    "CELO/BTC": {
-        "rate": 1.66977887,
-        "code": "CELO/BTC"
-    },
-    "STORJ/BTC": {
-        "rate": 2.81473063,
-        "code": "STORJ/BTC"
-    },
-    "PERP/EUR": {
-        "rate": 1.41970617,
-        "code": "PERP/EUR"
-    },
-    "SUSHI/ETH": {
-        "rate": 0.96762551,
-        "code": "SUSHI/ETH"
-    },
-    "AXS/EUR": {
-        "rate": 0.12412624,
-        "code": "AXS/EUR"
-    },
-    "ENJ/BTC": {
-        "rate": 2.55865364,
-        "code": "ENJ/BTC"
-    },
-    "SKL/BTC": {
-        "rate": 26.1769949,
-        "code": "SKL/BTC"
-    },
-    "BAND/EUR": {
-        "rate": 0.58355455,
-        "code": "BAND/EUR"
-    },
-    "MANA/BTC": {
-        "rate": 1.82957491,
-        "code": "MANA/BTC"
-    },
-    "NCT/EUR": {
-        "rate": 108.79830544,
-        "code": "NCT/EUR"
-    },
-    "FIS/USD": {
-        "rate": 2.26860254,
-        "code": "FIS/USD"
-    },
-    "AXS/BTC": {
-        "rate": 0.12534104,
-        "code": "AXS/BTC"
-    },
-    "BADGER/EUR": {
-        "rate": 0.35661667,
-        "code": "BADGER/EUR"
-    },
-    "ENS/EUR": {
-        "rate": 0.08192106,
-        "code": "ENS/EUR"
-    },
-    "ZEC/BTC": {
-        "rate": 0.02640038,
-        "code": "ZEC/BTC"
-    },
-    "LQTY/EUR": {
-        "rate": 0.55197715,
-        "code": "LQTY/EUR"
-    },
-    "CELO/EUR": {
-        "rate": 1.66421112,
-        "code": "CELO/EUR"
-    },
-    "USDP/USD": {
-        "rate": 1.00080064,
-        "code": "USDP/USD"
-    },
-    "NKN/GBP": {
-        "rate": 8.95563066,
-        "code": "NKN/GBP"
-    },
-    "WCFG/BTC": {
-        "rate": 3.9523918,
-        "code": "WCFG/BTC"
-    },
-    "BNT/BTC": {
-        "rate": 2.07500569,
-        "code": "BNT/BTC"
-    },
-    "UMA/BTC": {
-        "rate": 0.51780422,
-        "code": "UMA/BTC"
-    },
-    "DASH/BTC": {
-        "rate": 0.01981951,
-        "code": "DASH/BTC"
-    },
-    "LRC/BTC": {
-        "rate": 2.93362874,
-        "code": "LRC/BTC"
-    },
-    "ERN/EUR": {
-        "rate": 0.42998756,
-        "code": "ERN/EUR"
-    },
-    "CELO/GBP": {
-        "rate": 1.66372385,
-        "code": "CELO/GBP"
-    },
-    "ALCX/EUR": {
-        "rate": 0.05499841,
-        "code": "ALCX/EUR"
-    },
     "GUSD/USD": {
-        "rate": 1.001001,
+        "rate": "1.0040160643",
         "code": "GUSD/USD"
     },
-    "1INCH/BTC": {
-        "rate": 2.1136704,
-        "code": "1INCH/BTC"
+    "1INCH/GBP": {
+        "rate": "2.1590783764",
+        "code": "1INCH/GBP"
     },
-    "OGN/BTC": {
-        "rate": 8.88514187,
-        "code": "OGN/BTC"
+    "PLA/USD": {
+        "rate": "4.8520135856",
+        "code": "PLA/USD"
+    },
+    "ICP/GBP": {
+        "rate": "0.1650535122",
+        "code": "ICP/GBP"
+    },
+    "ETC/EUR": {
+        "rate": "0.0513384877",
+        "code": "ETC/EUR"
+    },
+    "FIL/GBP": {
+        "rate": "0.1866492989",
+        "code": "FIL/GBP"
+    },
+    "BCH/GBP": {
+        "rate": "0.0085057389",
+        "code": "BCH/GBP"
+    },
+    "ATOM/EUR": {
+        "rate": "0.0884939691",
+        "code": "ATOM/EUR"
+    },
+    "MLN/USD": {
+        "rate": "0.0490196078",
+        "code": "MLN/USD"
+    },
+    "BOBA/USD": {
+        "rate": "4.7236655645",
+        "code": "BOBA/USD"
+    },
+    "BLZ/USD": {
+        "rate": "13.4048257373",
+        "code": "BLZ/USD"
+    },
+    "BTRST/USD": {
+        "rate": "1.1848341232",
+        "code": "BTRST/USD"
+    },
+    "TRB/USD": {
+        "rate": "0.0741839763",
+        "code": "TRB/USD"
+    },
+    "AVT/USD": {
+        "rate": "0.9345794393",
+        "code": "AVT/USD"
+    },
+    "RAD/GBP": {
+        "rate": "0.3654432751",
+        "code": "RAD/GBP"
+    },
+    "SNX/GBP": {
+        "rate": "0.4145609752",
+        "code": "SNX/GBP"
+    },
+    "LRC/BTC": {
+        "rate": "2.9874240413",
+        "code": "LRC/BTC"
+    },
+    "ATOM/GBP": {
+        "rate": "0.0880770672",
+        "code": "ATOM/GBP"
+    },
+    "MCO2/USD": {
+        "rate": "0.7462686567",
+        "code": "MCO2/USD"
+    },
+    "AVAX/BTC": {
+        "rate": "0.0587058252",
+        "code": "AVAX/BTC"
+    },
+    "MANA/ETH": {
+        "rate": "1.8551535796",
+        "code": "MANA/ETH"
+    },
+    "USDP/USD": {
+        "rate": "1.0000000000",
+        "code": "USDP/USD"
+    },
+    "FOX/USD": {
+        "rate": "33.1125827815",
+        "code": "FOX/USD"
+    },
+    "CTX/USD": {
+        "rate": "0.5952380952",
+        "code": "CTX/USD"
+    },
+    "DREP/USD": {
+        "rate": "2.3952095808",
+        "code": "DREP/USD"
+    },
+    "BADGER/USD": {
+        "rate": "0.3663003663",
+        "code": "BADGER/USD"
+    },
+    "RLC/BTC": {
+        "rate": "0.5369103116",
+        "code": "RLC/BTC"
+    },
+    "CLV/EUR": {
+        "rate": "17.2654773680",
+        "code": "CLV/EUR"
+    },
+    "WCFG/USD": {
+        "rate": "4.0816326531",
+        "code": "WCFG/USD"
+    },
+    "CELO/BTC": {
+        "rate": "1.6942734505",
+        "code": "CELO/BTC"
+    },
+    "ZEN/USD": {
+        "rate": "0.1043841336",
+        "code": "ZEN/USD"
+    },
+    "NMR/EUR": {
+        "rate": "0.0624806320",
+        "code": "NMR/EUR"
+    },
+    "LOKA/USD": {
+        "rate": "2.1838829439",
+        "code": "LOKA/USD"
+    },
+    "OOKI/USD": {
+        "rate": "263.5046113307",
+        "code": "OOKI/USD"
+    },
+    "IOTX/EUR": {
+        "rate": "34.4851403533",
+        "code": "IOTX/EUR"
+    },
+    "ETC/BTC": {
+        "rate": "0.0514769680",
+        "code": "ETC/BTC"
+    },
+    "HOPR/USD": {
+        "rate": "16.5289256198",
+        "code": "HOPR/USD"
+    },
+    "POWR/USD": {
+        "rate": "5.7670126874",
+        "code": "POWR/USD"
+    },
+    "DAR/USD": {
+        "rate": "6.0606060606",
+        "code": "DAR/USD"
+    },
+    "DIA/EUR": {
+        "rate": "3.0425351255",
+        "code": "DIA/EUR"
+    },
+    "KNC/BTC": {
+        "rate": "1.4636876584",
+        "code": "KNC/BTC"
+    },
+    "GNO/USD": {
+        "rate": "0.0094562648",
+        "code": "GNO/USD"
+    },
+    "ENJ/BTC": {
+        "rate": "2.6084224838",
+        "code": "ENJ/BTC"
+    },
+    "PERP/EUR": {
+        "rate": "1.5238157496",
+        "code": "PERP/EUR"
+    },
+    "UNI/GBP": {
+        "rate": "0.1853501158",
+        "code": "UNI/GBP"
+    },
+    "NCT/EUR": {
+        "rate": "110.6712898443",
+        "code": "NCT/EUR"
+    },
+    "ANKR/BTC": {
+        "rate": "32.9743974372",
+        "code": "ANKR/BTC"
+    },
+    "MKR/BTC": {
+        "rate": "0.0014449302",
+        "code": "MKR/BTC"
+    },
+    "TRAC/EUR": {
+        "rate": "2.6756411839",
+        "code": "TRAC/EUR"
+    },
+    "AAVE/GBP": {
+        "rate": "0.0142780876",
+        "code": "AAVE/GBP"
+    },
+    "GTC/USD": {
+        "rate": "0.5847953216",
+        "code": "GTC/USD"
+    },
+    "REQ/EUR": {
+        "rate": "10.7164330607",
+        "code": "REQ/EUR"
+    },
+    "RARE/USD": {
+        "rate": "8.8809946714",
+        "code": "RARE/USD"
+    },
+    "SNX/BTC": {
+        "rate": "0.4151171174",
+        "code": "SNX/BTC"
+    },
+    "ZRX/BTC": {
+        "rate": "3.9272877847",
+        "code": "ZRX/BTC"
+    },
+    "UNI/EUR": {
+        "rate": "0.1849020330",
+        "code": "UNI/EUR"
+    },
+    "ALICE/USD": {
+        "rate": "0.6506180872",
+        "code": "ALICE/USD"
+    },
+    "FORTH/BTC": {
+        "rate": "0.2910313179",
+        "code": "FORTH/BTC"
+    },
+    "NKN/BTC": {
+        "rate": "9.1981213904",
+        "code": "NKN/BTC"
+    },
+    "STORJ/BTC": {
+        "rate": "2.8744129345",
+        "code": "STORJ/BTC"
+    },
+    "BAND/BTC": {
+        "rate": "0.5936287582",
+        "code": "BAND/BTC"
+    },
+    "DASH/BTC": {
+        "rate": "0.0202860483",
+        "code": "DASH/BTC"
     },
     "ZEN/BTC": {
-        "rate": 0.10237694,
+        "rate": "0.1043057633",
         "code": "ZEN/BTC"
     },
-    "REN/BTC": {
-        "rate": 10.76901689,
-        "code": "REN/BTC"
+    "SKL/BTC": {
+        "rate": "26.6815734988",
+        "code": "SKL/BTC"
     },
-    "FIDA/EUR": {
-        "rate": 2.50048415,
-        "code": "FIDA/EUR"
+    "ETH/DAI": {
+        "rate": "0.0005408760",
+        "code": "ETH/DAI"
+    },
+    "NMR/GBP": {
+        "rate": "0.0628033804",
+        "code": "NMR/GBP"
+    },
+    "BAND/EUR": {
+        "rate": "0.5945869298",
+        "code": "BAND/EUR"
+    },
+    "AXS/EUR": {
+        "rate": "0.1290380145",
+        "code": "AXS/EUR"
+    },
+    "BADGER/EUR": {
+        "rate": "0.3653485954",
+        "code": "BADGER/EUR"
+    },
+    "FIS/USD": {
+        "rate": "2.3223409196",
+        "code": "FIS/USD"
+    },
+    "SUSHI/ETH": {
+        "rate": "0.9799223499",
+        "code": "SUSHI/ETH"
+    },
+    "COMP/BTC": {
+        "rate": "0.0241553983",
+        "code": "COMP/BTC"
+    },
+    "NKN/EUR": {
+        "rate": "9.2170010387",
+        "code": "NKN/EUR"
+    },
+    "MANA/BTC": {
+        "rate": "1.8591947491",
+        "code": "MANA/BTC"
+    },
+    "AUCTION/EUR": {
+        "rate": "0.1852786156",
+        "code": "AUCTION/EUR"
+    },
+    "AXS/BTC": {
+        "rate": "0.1291202855",
+        "code": "AXS/BTC"
+    },
+    "TRB/BTC": {
+        "rate": "0.0740840638",
+        "code": "TRB/BTC"
+    },
+    "ENS/EUR": {
+        "rate": "0.0851795883",
+        "code": "ENS/EUR"
+    },
+    "OGN/BTC": {
+        "rate": "9.0551454102",
+        "code": "OGN/BTC"
+    },
+    "ORN/BTC": {
+        "rate": "1.0922769151",
+        "code": "ORN/BTC"
+    },
+    "REQ/GBP": {
+        "rate": "10.7662937908",
+        "code": "REQ/GBP"
+    },
+    "CELO/EUR": {
+        "rate": "1.7164490614",
+        "code": "CELO/EUR"
+    },
+    "CELO/GBP": {
+        "rate": "1.7033240923",
+        "code": "CELO/GBP"
+    },
+    "LQTY/EUR": {
+        "rate": "0.5535584779",
+        "code": "LQTY/EUR"
+    },
+    "WCFG/BTC": {
+        "rate": "4.0976390719",
+        "code": "WCFG/BTC"
+    },
+    "REQ/BTC": {
+        "rate": "10.7547265488",
+        "code": "REQ/BTC"
     },
     "NMR/BTC": {
-        "rate": 0.06072465,
+        "rate": "0.0626170929",
         "code": "NMR/BTC"
     },
-    "SHPING/EUR": {
-        "rate": 225.68407908,
-        "code": "SHPING/EUR"
-    },
     "BAT/BTC": {
-        "rate": 3.99883588,
+        "rate": "4.1364332880",
         "code": "BAT/BTC"
     },
+    "UMA/BTC": {
+        "rate": "0.4941730706",
+        "code": "UMA/BTC"
+    },
+    "ERN/EUR": {
+        "rate": "0.4503554468",
+        "code": "ERN/EUR"
+    },
+    "BNT/BTC": {
+        "rate": "2.1196398595",
+        "code": "BNT/BTC"
+    },
+    "REN/BTC": {
+        "rate": "11.0261392061",
+        "code": "REN/BTC"
+    },
+    "1INCH/BTC": {
+        "rate": "2.1575840298",
+        "code": "1INCH/BTC"
+    },
+    "ALCX/EUR": {
+        "rate": "0.0556742964",
+        "code": "ALCX/EUR"
+    },
     "BAT/ETH": {
-        "rate": 4.00975961,
+        "rate": "4.1261858727",
         "code": "BAT/ETH"
     },
+    "BTRST/BTC": {
+        "rate": "1.1768640163",
+        "code": "BTRST/BTC"
+    },
+    "SHPING/EUR": {
+        "rate": "228.4575596486",
+        "code": "SHPING/EUR"
+    },
     "XYO/BTC": {
-        "rate": 200.17701985,
+        "rate": "205.6050663734",
         "code": "XYO/BTC"
     },
     "RAI/USD": {
-        "rate": 0.36363636,
+        "rate": "0.3623188406",
         "code": "RAI/USD"
     },
-    "AUCTION/EUR": {
-        "rate": 0.18302933,
-        "code": "AUCTION/EUR"
-    },
-    "CTX/EUR": {
-        "rate": 0.5912329,
-        "code": "CTX/EUR"
-    },
-    "TRB/BTC": {
-        "rate": 0.07288519,
-        "code": "TRB/BTC"
-    },
     "CLV/GBP": {
-        "rate": 16.67211745,
+        "rate": "16.7475681190",
         "code": "CLV/GBP"
     },
+    "WBTC/BTC": {
+        "rate": "0.0000349564",
+        "code": "WBTC/BTC"
+    },
     "WCFG/EUR": {
-        "rate": 3.88699828,
+        "rate": "4.0739722459",
         "code": "WCFG/EUR"
     },
-    "BTRST/GBP": {
-        "rate": 1.11225175,
-        "code": "BTRST/GBP"
+    "CTX/EUR": {
+        "rate": "0.5984986859",
+        "code": "CTX/EUR"
+    },
+    "FIDA/EUR": {
+        "rate": "2.5312131400",
+        "code": "FIDA/EUR"
     },
     "POWR/EUR": {
-        "rate": 5.61671252,
+        "rate": "5.7577088767",
         "code": "POWR/EUR"
     },
-    "ETH/DAI": {
-        "rate": 0.00051934,
-        "code": "ETH/DAI"
+    "NKN/GBP": {
+        "rate": "9.3983411680",
+        "code": "NKN/GBP"
     },
-    "BTRST/BTC": {
-        "rate": 1.16821467,
-        "code": "BTRST/BTC"
+    "BTRST/GBP": {
+        "rate": "1.1172853137",
+        "code": "BTRST/GBP"
     },
     "IOTX/USD": {
-        "rate": 34.53038674,
+        "rate": "34.5303867403",
         "code": "IOTX/USD"
     },
-    "RARI/USD": {
-        "rate": 0.6097561,
-        "code": "RARI/USD"
+    "TONE/USD": {
+        "rate": "73.2064421669",
+        "code": "TONE/USD"
     },
-    "RBN/USD": {
-        "rate": 5.98444045,
-        "code": "RBN/USD"
+    "RAD/USD": {
+        "rate": "0.3623188406",
+        "code": "RAD/USD"
     },
     "ABT/USD": {
-        "rate": 8.65800866,
+        "rate": "8.9285714286",
         "code": "ABT/USD"
     },
-    "MCO2/USD": {
-        "rate": 0.75757576,
-        "code": "MCO2/USD"
+    "FX/USD": {
+        "rate": "5.6753688990",
+        "code": "FX/USD"
     },
-    "FORTH/GBP": {
-        "rate": 0.28081215,
-        "code": "FORTH/GBP"
+    "XYO/EUR": {
+        "rate": "221.2349227920",
+        "code": "XYO/EUR"
     },
-    "AVAX/BTC": {
-        "rate": 0.0573873,
-        "code": "AVAX/BTC"
+    "UMA/GBP": {
+        "rate": "0.4992868745",
+        "code": "UMA/GBP"
     },
     "BTRST/EUR": {
-        "rate": 1.15214616,
+        "rate": "1.1515417753",
         "code": "BTRST/EUR"
     },
-    "BNT/EUR": {
-        "rate": 2.01045638,
-        "code": "BNT/EUR"
-    },
-    "FORT/USD": {
-        "rate": 3.21027287,
-        "code": "FORT/USD"
-    },
     "00/USD": {
-        "rate": 5.91016548,
+        "rate": "8.9047195013",
         "code": "00/USD"
     },
-    "ORN/USD": {
-        "rate": 1.04821803,
-        "code": "ORN/USD"
+    "FORT/USD": {
+        "rate": "4.0916530278",
+        "code": "FORT/USD"
+    },
+    "ANKR/GBP": {
+        "rate": "32.7267103350",
+        "code": "ANKR/GBP"
+    },
+    "BNT/EUR": {
+        "rate": "2.1156232617",
+        "code": "BNT/EUR"
+    },
+    "BNT/GBP": {
+        "rate": "2.1808872489",
+        "code": "BNT/GBP"
     }
 }

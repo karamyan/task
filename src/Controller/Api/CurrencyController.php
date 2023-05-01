@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Controller\Api;
 
 use App\Module\CurrencyConverter\CurrencyConverter;
@@ -37,27 +39,6 @@ class CurrencyController extends AbstractController
         $result = $currencyConverter->convertByBaseCurrency($baseCurrency);
 
         return new JsonResponse(json_encode($result, JSON_PRETTY_PRINT), 200, [], true);
-
-        $currencyConverter = new CurrencyConverter($provider, ConvertItem());
-
-
-        if (!isset($currencyRates[$quotedCurrency])) {
-            return new JsonResponse(["error" => "Base currency not found"], 400);
-        }
-
-        $rate = $currencyRates[$quotedCurrency];
-        $result = [
-            [
-                "rate" => 1,
-                "code" => $baseCurrency
-            ],
-            [
-                "rate" => $rate['rate'],
-                "code" => $quotedCurrency
-            ]
-        ];
-
-        return new JsonResponse(json_encode($result, JSON_PRETTY_PRINT), 200, [], true);
     }
 
     /**
@@ -79,7 +60,7 @@ class CurrencyController extends AbstractController
             throw new ValidationFailedException('', $violations);
         }
 
-        $amount = $body['amount'];
+        $amount = floatval($body['amount']);
         $currencyFrom = strtoupper($body['currency_from']);
         $currencyTo = strtoupper($body['currency_to']);
 
@@ -93,9 +74,9 @@ class CurrencyController extends AbstractController
         $convertItem = $currencyConverter->convert(amount: $amount, currencyFrom: $currencyFrom, currencyTo: $currencyTo);
 
         $response = [
-            'amount' => $convertItem->getAmount(),
+            'amount' => number_format($convertItem->getAmount(), 10),
             'currency_from' => [
-                'rate' => $convertItem->getChangeRate(),
+                'rate' => number_format($convertItem->getChangeRate(), 10),
                 'code' => $convertItem->getCurrencyFrom()
             ],
             'currency_to' => [

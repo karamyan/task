@@ -9,6 +9,7 @@ use Exception;
 use Symfony\Component\HttpFoundation\Response;
 use Throwable;
 
+
 class UnknownCurrencyException extends Exception
 {
     /**

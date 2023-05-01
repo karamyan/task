@@ -21,9 +21,9 @@ use Symfony\Contracts\HttpClient\HttpClientInterface;
 
 
 #[AsCommand(
-    name: 'app:convert-currency',
+    name: 'get-currency',
     description: 'Get currencies and convert to json.',
-    aliases: ['app:convert-currency'],
+    aliases: ['get-currency'],
     hidden: false
 )]
 class CurrencyConvertCommand extends Command
@@ -46,9 +46,6 @@ class CurrencyConvertCommand extends Command
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-
-        dd(number_format((1 / 29294.58), 5));
-
         $currencyCode =  strtolower($_ENV['BASE_CURRENCY']);
         $providerList = CurrencyProviderList::getAll();
 
@@ -84,10 +81,5 @@ class CurrencyConvertCommand extends Command
 
         $output->writeln('Currency rates have been saved to ' . $currencyCode . '.json');
         return Command::SUCCESS;
-    }
-
-    protected function configure(): void
-    {
-        $this->addArgument('currency', InputArgument::REQUIRED, 'The currency is required.');
     }
 }
