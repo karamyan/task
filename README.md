@@ -1,15 +1,18 @@
 Currency exchange service
 
+Requirements
 
-Requirements.
     Php version >= 8.1
 
 Getting Started
+
     1. `symfony serve` to run  local server
     2. `bin/console  get-currency` run command to get currencies and save in json file.
 
 Endpoints
+
     1.  POST `{host}/convert`
+
         request body.
             `
                 {
@@ -18,6 +21,7 @@ Endpoints
                     "currency_to":"AMD"
                 }
             `
+
         response body
             `
                 {
@@ -33,7 +37,7 @@ Endpoints
                 }
             `
     2. GET `/get_rates?base=USD`
-        
+
         response body
             `
                 [
